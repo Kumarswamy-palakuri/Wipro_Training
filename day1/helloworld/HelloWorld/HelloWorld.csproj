@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>HelloWorld.Quiz8</StartupObject>
+    <StartupObject>HelloWorld.substract</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -70,6 +70,7 @@
     <Compile Include="SbEx.cs" />
     <Compile Include="StrEx.cs" />
     <Compile Include="StrMethods.cs" />
+    <Compile Include="substract.cs" />
     <Compile Include="sum.cs" />
     <Compile Include="Unary.cs" />
     <Compile Include="VariableExample.cs" />

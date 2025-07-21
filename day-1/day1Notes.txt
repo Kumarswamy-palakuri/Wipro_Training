@@ -1,0 +1,120 @@
+1) What is .NET
+
+2) Why .NET
+
+3) What is Namespace and Assembly
+
+4) What is GAC folder
+
+5) Components of .NET framework
+
+6) Compiling and Execution Procedure of .NET framework
+
+____________________________________________________________
+
+What is .NET 
+
+Microsoft introduced .NET for bridging the gap between 
+interoperability between applications. 
+
+It is a foundation on which where we can build, design, 
+develop and deploy the applications. 
+
+.NET is a Framework that which contains more than 270+ language characterstics have been formed as a single unit where we can use one language
+features within another language. 
+
+Example : C#, VB, ASP, HTML, JavaScript, CSS etc...
+
+DllHell 
+
+Namespace : Contains group of related classes and interfaces
+that which belongs to one common group. If you want to overcome
+the naming Conflicts between classes, then we need the help of
+namespaces. 
+
+Assembly : An assembly is a single deployable unit that which contains information about project, version and public token. 
+
+Once you are done with .NET project, for deployment, we need to make as an assembly file and deploy in GAC folder (Global Assembly Cache) then w.r.t. Project-name, Version and public key token combination we can access the project. 
+
+An assembly contains group of namespaces, and a single namespace can be shared in multiple assemblies. 
+
+Components of .NET framework : 
+______________________________
+
+1) CLR (Common Language @ Runtime) 
+
+     It is responsible for 
+
+	 -> Debugging
+
+	 -> Exception Handling
+
+	 -> Security
+
+	 -> Version Support 
+
+*** Any language, that which follows rules/regulations specified by CLR, then only it would be treated as .NET framework language ***
+
+  -> Managed Code : The code which target CLR known as managed code.
+
+  -> Unmanaged Code : The code which does not target CLR known as Unmanaged Code (C,C++) 
+
+2) MSIL (Microsoft Intermediate Language) : When you compile any .NET application, at first instead of converting into CPU specific code, first its converted into MSIL. (Then it becomes language-neutral) 
+
+3) CLI (Common Language Integration) : Known as Language Interoperability. The code which is there in one .NET framework language can be used in another .NET framework language. 
+
+4) JIT (Just-In Time) : Converts the MSIL into CPU specific Format. 
+
+Compiling and Execution Procedure of .NET application :
+________________________________________________________
+
+-> When you compile any .NET application, at first instead of converting into CPU specific code, it would be converted into MSIL 
+
+	either EXE or DLL file will be created. 
+
+-> Then it would be send to class loader. 
+
+	There are 2 types of class loaders known as
+
+	   (a) Primordial Class Loader : Used to load all system predefined classes Example Math Library etc...
+
+	   (b) Class Loader Objects : Used to load all user-defined classes 
+
+-> In class loader, we have JIT Compiler, converts the bytecode into CPU specific format. 
+
+There we can execute our program.
+
+*** Before execution, it needs to undergone security authentication ***
+
+Object Oriented Programming : It is an approach that provides a way of modularizing programming, that which can be used to create small partition memory area, for both data and objects, which are to be used as templates for creating copies of such modules on demand. 
+
+Object : An object is a real world entity, that which possess 3 characterstics known as 
+
+	(I) state
+
+	(ii) Behaviour
+
+	(iii) Identity 
+
+OOPS features : 
+________________
+
+	(I) Encapsulation : Wrapping up of data and functions into a single unit. 
+
+        (ii) Abstraction : Hiding the irrelevant details of an object, that do not contribute to its essential characterstics known as Abstraction. 
+
+*** Encapsulation focuses on showing the relevant details, where abstraction focuses on hiding the irrelevant details ***
+
+        (iii) Inheritance : Deriving a new entity from already existing entity known as inheritance, through inheritance we can reduce the size of the program. 
+
+         (iv) Polymorphism : The ability to take more than one form known as polymorphism. 
+
+class : A class is a template or blueprint, that which contains combination of data members and member functions.  Members of the class can be accessable by using instance of the class. 
+
+class class_name 
+{
+   data-members;
+   member functions;
+}
+
+

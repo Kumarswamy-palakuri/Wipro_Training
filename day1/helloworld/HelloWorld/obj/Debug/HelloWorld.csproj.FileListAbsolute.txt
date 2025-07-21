@@ -12,3 +12,4 @@ D:\wipro-vs-practice\day1\helloworld\HelloWorld\obj\Debug\HelloWorld.csproj.Asse
 D:\wipro-vs-practice\day1\helloworld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
 D:\wipro-vs-practice\day1\helloworld\HelloWorld\obj\Debug\HelloWorld.exe
 D:\wipro-vs-practice\day1\helloworld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\wipro-vs-practice\day1\helloworld\HelloWorld\obj\Debug\HelloWorld.exe.config

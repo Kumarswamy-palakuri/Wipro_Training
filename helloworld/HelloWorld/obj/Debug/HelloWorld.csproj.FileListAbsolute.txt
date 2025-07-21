@@ -1,0 +1,14 @@
+D:\WiproJuly\Day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\WiproJuly\Day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\WiproJuly\Day1\HelloWorld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\WiproJuly\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\WiproJuly\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\WiproJuly\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\WiproJuly\Day1\HelloWorld\HelloWorld\obj\Debug\HelloWorld.pdb
+D:\wipro-vs-practice\day1\helloworld\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\wipro-vs-practice\day1\helloworld\HelloWorld\bin\Debug\HelloWorld.exe
+D:\wipro-vs-practice\day1\helloworld\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\wipro-vs-practice\day1\helloworld\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\wipro-vs-practice\day1\helloworld\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\wipro-vs-practice\day1\helloworld\HelloWorld\obj\Debug\HelloWorld.exe
+D:\wipro-vs-practice\day1\helloworld\HelloWorld\obj\Debug\HelloWorld.pdb

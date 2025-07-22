@@ -1,0 +1,8 @@
+D:\wipro-vs-practice\day2\arrays\arrays\bin\Debug\arrays.exe.config
+D:\wipro-vs-practice\day2\arrays\arrays\bin\Debug\arrays.exe
+D:\wipro-vs-practice\day2\arrays\arrays\bin\Debug\arrays.pdb
+D:\wipro-vs-practice\day2\arrays\arrays\obj\Debug\arrays.csproj.AssemblyReference.cache
+D:\wipro-vs-practice\day2\arrays\arrays\obj\Debug\arrays.csproj.CoreCompileInputs.cache
+D:\wipro-vs-practice\day2\arrays\arrays\obj\Debug\arrays.exe
+D:\wipro-vs-practice\day2\arrays\arrays\obj\Debug\arrays.pdb
+D:\wipro-vs-practice\day2\arrays\arrays\obj\Debug\arrays.exe.config

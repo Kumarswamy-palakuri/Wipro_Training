@@ -1,24 +1,16 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Wipro_Training\\day2\\arrays\\",
+  "WorkspaceRootPath": "D:\\wipro-vs-practice\\day2\\arrays\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{96C5A94E-4151-4C75-A301-104FBD663CB9}|arrays\\arrays.csproj|d:\\wipro_training\\day2\\arrays\\arrays\\boxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96C5A94E-4151-4C75-A301-104FBD663CB9}|arrays\\arrays.csproj|solutionrelative:arrays\\boxing.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{96C5A94E-4151-4C75-A301-104FBD663CB9}|arrays\\arrays.csproj|d:\\wipro-vs-practice\\day2\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{96C5A94E-4151-4C75-A301-104FBD663CB9}|arrays\\arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|arrays||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{96C5A94E-4151-4C75-A301-104FBD663CB9}|arrays\\arrays.csproj|d:\\wipro_training\\day2\\arrays\\arrays\\splitstrtoword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96C5A94E-4151-4C75-A301-104FBD663CB9}|arrays\\arrays.csproj|solutionrelative:arrays\\splitstrtoword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96C5A94E-4151-4C75-A301-104FBD663CB9}|arrays\\arrays.csproj|d:\\wipro_training\\day2\\arrays\\arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{96C5A94E-4151-4C75-A301-104FBD663CB9}|arrays\\arrays.csproj|solutionrelative:arrays\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{96C5A94E-4151-4C75-A301-104FBD663CB9}|arrays\\arrays.csproj|d:\\wipro_training\\day2\\arrays\\arrays\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+      "AbsoluteMoniker": "D:0:0:{96C5A94E-4151-4C75-A301-104FBD663CB9}|arrays\\arrays.csproj|d:\\wipro-vs-practice\\day2\\arrays\\arrays\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,54 +24,27 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Wipro_Training\\day2\\arrays\\arrays\\Program.cs",
-              "RelativeDocumentMoniker": "arrays\\Program.cs",
-              "ToolTip": "D:\\Wipro_Training\\day2\\arrays\\arrays\\Program.cs",
-              "RelativeToolTip": "arrays\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-22T03:40:12.455Z",
-              "IsPinned": true,
+              "DocumentIndex": 1,
+              "Title": "arrays",
+              "DocumentMoniker": "D:\\wipro-vs-practice\\day2\\arrays\\arrays\\arrays.csproj",
+              "RelativeDocumentMoniker": "arrays\\arrays.csproj",
+              "ToolTip": "D:\\wipro-vs-practice\\day2\\arrays\\arrays\\arrays.csproj",
+              "RelativeToolTip": "arrays\\arrays.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-07-22T03:40:26.159Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Boxing.cs",
-              "DocumentMoniker": "D:\\Wipro_Training\\day2\\arrays\\arrays\\Boxing.cs",
-              "RelativeDocumentMoniker": "arrays\\Boxing.cs",
-              "ToolTip": "D:\\Wipro_Training\\day2\\arrays\\arrays\\Boxing.cs",
-              "RelativeToolTip": "arrays\\Boxing.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAQwBgAAAAAAAAAAAAAAA==",
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\wipro-vs-practice\\day2\\arrays\\arrays\\Program.cs",
+              "RelativeDocumentMoniker": "arrays\\Program.cs",
+              "ToolTip": "D:\\wipro-vs-practice\\day2\\arrays\\arrays\\Program.cs",
+              "RelativeToolTip": "arrays\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:43:44.552Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "SplitStrToWord.cs",
-              "DocumentMoniker": "D:\\Wipro_Training\\day2\\arrays\\arrays\\SplitStrToWord.cs",
-              "RelativeDocumentMoniker": "arrays\\SplitStrToWord.cs",
-              "ToolTip": "D:\\Wipro_Training\\day2\\arrays\\arrays\\SplitStrToWord.cs",
-              "RelativeToolTip": "arrays\\SplitStrToWord.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAuwBEAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T16:26:58.683Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "arrays",
-              "DocumentMoniker": "D:\\Wipro_Training\\day2\\arrays\\arrays\\arrays.csproj",
-              "RelativeDocumentMoniker": "arrays\\arrays.csproj",
-              "ToolTip": "D:\\Wipro_Training\\day2\\arrays\\arrays\\arrays.csproj",
-              "RelativeToolTip": "arrays\\arrays.csproj",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2025-07-22T03:40:26.159Z",
+              "WhenOpened": "2025-07-22T03:40:12.455Z",
               "EditorCaption": ""
             }
           ]

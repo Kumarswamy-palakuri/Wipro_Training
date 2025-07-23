@@ -33,7 +33,7 @@
     <WarningLevel>4</WarningLevel>
   </PropertyGroup>
   <PropertyGroup>
-    <StartupObject>Demoapplication.CountVowels</StartupObject>
+    <StartupObject>Demoapplication.BoxingEx2</StartupObject>
   </PropertyGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -47,8 +47,12 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="altwordrev.cs" />
+    <Compile Include="ArrayCopy.cs" />
+    <Compile Include="Boxingex.cs" />
+    <Compile Include="BoxingEx2.cs" />
     <Compile Include="comparethreenums.cs" />
     <Compile Include="CountVowels.cs" />
+    <Compile Include="factorial.cs" />
     <Compile Include="loo1.cs" />
     <Compile Include="loop2.cs" />
     <Compile Include="PalindromeWords.cs" />

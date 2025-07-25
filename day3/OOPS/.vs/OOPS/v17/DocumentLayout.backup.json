@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\day3\\OOPS\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30CDBC61-BDA2-4524-BB31-7CD6D6C0BF95}|OOPS\\OOPS.csproj|d:\\wipro_training\\day3\\oops\\oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30CDBC61-BDA2-4524-BB31-7CD6D6C0BF95}|OOPS\\OOPS.csproj|solutionrelative:oops\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day3\\OOPS\\OOPS\\Program.cs",
+              "RelativeDocumentMoniker": "OOPS\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\day3\\OOPS\\OOPS\\Program.cs",
+              "RelativeToolTip": "OOPS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-23T17:59:12.769Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

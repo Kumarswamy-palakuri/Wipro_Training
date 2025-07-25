@@ -3,14 +3,14 @@
   "WorkspaceRootPath": "D:\\Wipro_Training\\day3\\ArraysDay3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ArraysDay3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{41A3EC3A-2F5A-44EE-806F-536F8CC53706}|ArraysDay3\\ArraysDay3.csproj|d:\\wipro_training\\day3\\arraysday3\\arraysday3\\printmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41A3EC3A-2F5A-44EE-806F-536F8CC53706}|ArraysDay3\\ArraysDay3.csproj|solutionrelative:arraysday3\\printmatrix.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|ArraysDay3||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{41A3EC3A-2F5A-44EE-806F-536F8CC53706}|ArraysDay3\\ArraysDay3.csproj|d:\\wipro_training\\day3\\arraysday3\\arraysday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{41A3EC3A-2F5A-44EE-806F-536F8CC53706}|ArraysDay3\\ArraysDay3.csproj|D:\\Wipro_Training\\day3\\ArraysDay3\\arraysday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{41A3EC3A-2F5A-44EE-806F-536F8CC53706}|ArraysDay3\\ArraysDay3.csproj|solutionrelative:arraysday3\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -24,11 +24,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "PrintMatrix.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\day3\\ArraysDay3\\ArraysDay3\\PrintMatrix.cs",
               "RelativeDocumentMoniker": "ArraysDay3\\PrintMatrix.cs",
@@ -41,7 +41,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ArraysDay3",
               "DocumentMoniker": "D:\\Wipro_Training\\day3\\ArraysDay3\\ArraysDay3\\ArraysDay3.csproj",
               "RelativeDocumentMoniker": "ArraysDay3\\ArraysDay3.csproj",
@@ -61,8 +61,7 @@
               "RelativeToolTip": "ArraysDay3\\Program.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-23T17:28:51.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-23T17:28:51.239Z"
             }
           ]
         }

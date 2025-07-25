@@ -1,0 +1,8 @@
+D:\Wipro_Training\day4\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe.config
+D:\Wipro_Training\day4\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.exe
+D:\Wipro_Training\day4\ExceptionHandling\ExceptionHandling\bin\Debug\ExceptionHandling.pdb
+D:\Wipro_Training\day4\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.AssemblyReference.cache
+D:\Wipro_Training\day4\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\day4\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe
+D:\Wipro_Training\day4\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.pdb
+D:\Wipro_Training\day4\ExceptionHandling\ExceptionHandling\obj\Debug\ExceptionHandling.exe.config

@@ -1,0 +1,8 @@
+D:\Wipro_Training\day4\Extension\Extension\bin\Debug\Extension.exe.config
+D:\Wipro_Training\day4\Extension\Extension\bin\Debug\Extension.exe
+D:\Wipro_Training\day4\Extension\Extension\bin\Debug\Extension.pdb
+D:\Wipro_Training\day4\Extension\Extension\obj\Debug\Extension.csproj.AssemblyReference.cache
+D:\Wipro_Training\day4\Extension\Extension\obj\Debug\Extension.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\day4\Extension\Extension\obj\Debug\Extension.exe
+D:\Wipro_Training\day4\Extension\Extension\obj\Debug\Extension.pdb
+D:\Wipro_Training\day4\Extension\Extension\obj\Debug\Extension.exe.config

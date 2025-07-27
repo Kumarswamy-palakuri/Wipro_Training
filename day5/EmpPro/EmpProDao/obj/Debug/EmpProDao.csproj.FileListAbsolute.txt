@@ -1,0 +1,6 @@
+D:\Wipro_Training\day5\EmpPro\EmpProDao\bin\Debug\EmpProDao.dll
+D:\Wipro_Training\day5\EmpPro\EmpProDao\bin\Debug\EmpProDao.pdb
+D:\Wipro_Training\day5\EmpPro\EmpProDao\obj\Debug\EmpProDao.csproj.AssemblyReference.cache
+D:\Wipro_Training\day5\EmpPro\EmpProDao\obj\Debug\EmpProDao.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\day5\EmpPro\EmpProDao\obj\Debug\EmpProDao.dll
+D:\Wipro_Training\day5\EmpPro\EmpProDao\obj\Debug\EmpProDao.pdb

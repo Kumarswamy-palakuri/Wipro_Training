@@ -1,0 +1,6 @@
+D:\Wipro_Training\day5\EmpPro\EmpProExceptions\bin\Debug\EmpProExceptions.dll
+D:\Wipro_Training\day5\EmpPro\EmpProExceptions\bin\Debug\EmpProExceptions.pdb
+D:\Wipro_Training\day5\EmpPro\EmpProExceptions\obj\Debug\EmpProExceptions.csproj.AssemblyReference.cache
+D:\Wipro_Training\day5\EmpPro\EmpProExceptions\obj\Debug\EmpProExceptions.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\day5\EmpPro\EmpProExceptions\obj\Debug\EmpProExceptions.dll
+D:\Wipro_Training\day5\EmpPro\EmpProExceptions\obj\Debug\EmpProExceptions.pdb

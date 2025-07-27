@@ -1,0 +1,137 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\day5\\EmployProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9FD870F0-7777-48A5-86EC-85E5A31AC4D3}|EmployProject.MainOne\\EmployProject.MainOne.csproj|D:\\Wipro_Training\\day5\\EmployProject\\employproject.mainone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FD870F0-7777-48A5-86EC-85E5A31AC4D3}|EmployProject.MainOne\\EmployProject.MainOne.csproj|solutionrelative:employproject.mainone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1AD948A0-5236-433F-8C96-02AF5A26AB04}|EmployProject.Bal\\EmployProject.Bal.csproj|d:\\wipro_training\\day5\\employproject\\employproject.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1AD948A0-5236-433F-8C96-02AF5A26AB04}|EmployProject.Bal\\EmployProject.Bal.csproj|solutionrelative:employproject.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09FE1A41-4457-4099-8B1B-5FC5CC7DA863}|Employproject.Exceptions\\Employproject.Exceptions.csproj|D:\\Wipro_Training\\day5\\EmployProject\\employproject.exceptions\\employexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09FE1A41-4457-4099-8B1B-5FC5CC7DA863}|Employproject.Exceptions\\Employproject.Exceptions.csproj|solutionrelative:employproject.exceptions\\employexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BCD735-7E9D-40B8-86D4-3D23C4088EA6}|EmployProject.Dao\\EmployProject.Dao.csproj|D:\\Wipro_Training\\day5\\EmployProject\\employproject.dao\\employdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BCD735-7E9D-40B8-86D4-3D23C4088EA6}|EmployProject.Dao\\EmployProject.Dao.csproj|solutionrelative:employproject.dao\\employdaoimpl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F84D9608-8047-4D5B-84B4-D86DC90A14E8}|EmployProjects.Models\\EmployProjects.Models.csproj|D:\\Wipro_Training\\day5\\EmployProject\\employprojects.models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F84D9608-8047-4D5B-84B4-D86DC90A14E8}|EmployProjects.Models\\EmployProjects.Models.csproj|solutionrelative:employprojects.models\\employ.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B1BCD735-7E9D-40B8-86D4-3D23C4088EA6}|EmployProject.Dao\\EmployProject.Dao.csproj|D:\\Wipro_Training\\day5\\EmployProject\\employproject.dao\\iemploydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B1BCD735-7E9D-40B8-86D4-3D23C4088EA6}|EmployProject.Dao\\EmployProject.Dao.csproj|solutionrelative:employproject.dao\\iemploydao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7EAC89EF-C445-4E93-B2FC-909144360D09}|EmployProject\\EmployProject.csproj|D:\\Wipro_Training\\day5\\EmployProject\\employproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7EAC89EF-C445-4E93-B2FC-909144360D09}|EmployProject\\EmployProject.csproj|solutionrelative:employproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProject.MainOne\\Program.cs",
+              "RelativeDocumentMoniker": "EmployProject.MainOne\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProject.MainOne\\Program.cs",
+              "RelativeToolTip": "EmployProject.MainOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:46:49.174Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Employ.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProjects.Models\\Employ.cs",
+              "RelativeDocumentMoniker": "EmployProjects.Models\\Employ.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProjects.Models\\Employ.cs",
+              "RelativeToolTip": "EmployProjects.Models\\Employ.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:49:03.672Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmployException.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmployProject\\Employproject.Exceptions\\EmployException.cs",
+              "RelativeDocumentMoniker": "Employproject.Exceptions\\EmployException.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmployProject\\Employproject.Exceptions\\EmployException.cs",
+              "RelativeToolTip": "Employproject.Exceptions\\EmployException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:48:14.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmployDaoImpl.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "RelativeDocumentMoniker": "EmployProject.Dao\\EmployDaoImpl.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProject.Dao\\EmployDaoImpl.cs",
+              "RelativeToolTip": "EmployProject.Dao\\EmployDaoImpl.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:53:31.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmployBal.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProject.Bal\\EmployBal.cs",
+              "RelativeDocumentMoniker": "EmployProject.Bal\\EmployBal.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProject.Bal\\EmployBal.cs",
+              "RelativeToolTip": "EmployProject.Bal\\EmployBal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:50:49.642Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "IEmployDao.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProject.Dao\\IEmployDao.cs",
+              "RelativeDocumentMoniker": "EmployProject.Dao\\IEmployDao.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProject.Dao\\IEmployDao.cs",
+              "RelativeToolTip": "EmployProject.Dao\\IEmployDao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:47:24.869Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProject\\Program.cs",
+              "RelativeDocumentMoniker": "EmployProject\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmployProject\\EmployProject\\Program.cs",
+              "RelativeToolTip": "EmployProject\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T16:43:17.959Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

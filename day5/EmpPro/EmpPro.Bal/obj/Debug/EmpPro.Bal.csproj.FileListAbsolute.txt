@@ -1,0 +1,6 @@
+D:\Wipro_Training\day5\EmpPro\EmpPro.Bal\bin\Debug\EmpPro.Bal.dll
+D:\Wipro_Training\day5\EmpPro\EmpPro.Bal\bin\Debug\EmpPro.Bal.pdb
+D:\Wipro_Training\day5\EmpPro\EmpPro.Bal\obj\Debug\EmpPro.Bal.csproj.AssemblyReference.cache
+D:\Wipro_Training\day5\EmpPro\EmpPro.Bal\obj\Debug\EmpPro.Bal.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\day5\EmpPro\EmpPro.Bal\obj\Debug\EmpPro.Bal.dll
+D:\Wipro_Training\day5\EmpPro\EmpPro.Bal\obj\Debug\EmpPro.Bal.pdb

@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\day5\\EmpPro\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{27E0507B-6145-497B-A0D9-423685DEF809}|EmpPro.Bal\\EmpPro.Bal.csproj|d:\\wipro_training\\day5\\emppro\\emppro.bal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{27E0507B-6145-497B-A0D9-423685DEF809}|EmpPro.Bal\\EmpPro.Bal.csproj|solutionrelative:emppro.bal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{89D528F2-9AFE-45EF-BB27-00C9D64B808C}|EmpProMainOne\\EmpProMainOne.csproj|d:\\wipro_training\\day5\\emppro\\emppromainone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{89D528F2-9AFE-45EF-BB27-00C9D64B808C}|EmpProMainOne\\EmpProMainOne.csproj|solutionrelative:emppromainone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D555E362-9010-4709-8B88-1C1D854CBB9E}|EmpProDao\\EmpProDao.csproj|d:\\wipro_training\\day5\\emppro\\empprodao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D555E362-9010-4709-8B88-1C1D854CBB9E}|EmpProDao\\EmpProDao.csproj|solutionrelative:empprodao\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C6F6F33A-B620-476F-A039-B7F4A50BB00C}|EmpProExceptions\\EmpProExceptions.csproj|d:\\wipro_training\\day5\\emppro\\empproexceptions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6F6F33A-B620-476F-A039-B7F4A50BB00C}|EmpProExceptions\\EmpProExceptions.csproj|solutionrelative:empproexceptions\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DCD924FB-BDCD-4408-941F-A621023CF2AC}|EmpPro.Models\\EmpPro.Models.csproj|d:\\wipro_training\\day5\\emppro\\emppro.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DCD924FB-BDCD-4408-941F-A621023CF2AC}|EmpPro.Models\\EmpPro.Models.csproj|solutionrelative:emppro.models\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmpPro\\EmpProMainOne\\Program.cs",
+              "RelativeDocumentMoniker": "EmpProMainOne\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmpPro\\EmpProMainOne\\Program.cs",
+              "RelativeToolTip": "EmpProMainOne\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:54:05.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmpPro\\EmpProExceptions\\Class1.cs",
+              "RelativeDocumentMoniker": "EmpProExceptions\\Class1.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmpPro\\EmpProExceptions\\Class1.cs",
+              "RelativeToolTip": "EmpProExceptions\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:52:54.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmpPro\\EmpPro.Bal\\Class1.cs",
+              "RelativeDocumentMoniker": "EmpPro.Bal\\Class1.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmpPro\\EmpPro.Bal\\Class1.cs*",
+              "RelativeToolTip": "EmpPro.Bal\\Class1.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:52:20.059Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmpPro\\EmpProDao\\Class1.cs",
+              "RelativeDocumentMoniker": "EmpProDao\\Class1.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmpPro\\EmpProDao\\Class1.cs",
+              "RelativeToolTip": "EmpProDao\\Class1.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:51:32.153Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day5\\EmpPro\\EmpPro.Models\\Class1.cs",
+              "RelativeDocumentMoniker": "EmpPro.Models\\Class1.cs",
+              "ToolTip": "D:\\Wipro_Training\\day5\\EmpPro\\EmpPro.Models\\Class1.cs",
+              "RelativeToolTip": "EmpPro.Models\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-26T08:50:47.336Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

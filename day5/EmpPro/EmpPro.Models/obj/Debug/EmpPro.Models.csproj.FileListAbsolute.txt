@@ -1,0 +1,6 @@
+D:\Wipro_Training\day5\EmpPro\EmpPro.Models\bin\Debug\EmpPro.Models.pdb
+D:\Wipro_Training\day5\EmpPro\EmpPro.Models\obj\Debug\EmpPro.Models.csproj.AssemblyReference.cache
+D:\Wipro_Training\day5\EmpPro\EmpPro.Models\obj\Debug\EmpPro.Models.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\day5\EmpPro\EmpPro.Models\obj\Debug\EmpPro.Models.dll
+D:\Wipro_Training\day5\EmpPro\EmpPro.Models\obj\Debug\EmpPro.Models.pdb
+D:\Wipro_Training\day5\EmpPro\EmpPro.Models\obj\Debug\EmpPro.M.9E3E7D4B.Up2Date

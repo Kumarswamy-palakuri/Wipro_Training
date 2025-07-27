@@ -1,0 +1,6 @@
+D:\Wipro_Training\day5\EmployProject\EmployProjects.Models\bin\Debug\EmployProjects.Models.dll
+D:\Wipro_Training\day5\EmployProject\EmployProjects.Models\bin\Debug\EmployProjects.Models.pdb
+D:\Wipro_Training\day5\EmployProject\EmployProjects.Models\obj\Debug\EmployProjects.Models.csproj.AssemblyReference.cache
+D:\Wipro_Training\day5\EmployProject\EmployProjects.Models\obj\Debug\EmployProjects.Models.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\day5\EmployProject\EmployProjects.Models\obj\Debug\EmployProjects.Models.dll
+D:\Wipro_Training\day5\EmployProject\EmployProjects.Models\obj\Debug\EmployProjects.Models.pdb

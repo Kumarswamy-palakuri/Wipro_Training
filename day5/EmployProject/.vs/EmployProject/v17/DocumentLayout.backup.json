@@ -3,11 +3,11 @@
   "WorkspaceRootPath": "D:\\Wipro_Training\\day5\\EmployProject\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9FD870F0-7777-48A5-86EC-85E5A31AC4D3}|EmployProject.MainOne\\EmployProject.MainOne.csproj|D:\\Wipro_Training\\day5\\EmployProject\\employproject.mainone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{9FD870F0-7777-48A5-86EC-85E5A31AC4D3}|EmployProject.MainOne\\EmployProject.MainOne.csproj|d:\\wipro_training\\day5\\employproject\\employproject.mainone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9FD870F0-7777-48A5-86EC-85E5A31AC4D3}|EmployProject.MainOne\\EmployProject.MainOne.csproj|solutionrelative:employproject.mainone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{1AD948A0-5236-433F-8C96-02AF5A26AB04}|EmployProject.Bal\\EmployProject.Bal.csproj|d:\\wipro_training\\day5\\employproject\\employproject.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{1AD948A0-5236-433F-8C96-02AF5A26AB04}|EmployProject.Bal\\EmployProject.Bal.csproj|D:\\Wipro_Training\\day5\\EmployProject\\employproject.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{1AD948A0-5236-433F-8C96-02AF5A26AB04}|EmployProject.Bal\\EmployProject.Bal.csproj|solutionrelative:employproject.bal\\employbal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
@@ -63,8 +63,7 @@
               "RelativeToolTip": "EmployProjects.Models\\Employ.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T16:49:03.672Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T16:49:03.672Z"
             },
             {
               "$type": "Document",
@@ -76,8 +75,7 @@
               "RelativeToolTip": "Employproject.Exceptions\\EmployException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T16:48:14.239Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T16:48:14.239Z"
             },
             {
               "$type": "Document",
@@ -89,8 +87,7 @@
               "RelativeToolTip": "EmployProject.Dao\\EmployDaoImpl.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T16:53:31.419Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T16:53:31.419Z"
             },
             {
               "$type": "Document",
@@ -102,8 +99,7 @@
               "RelativeToolTip": "EmployProject.Bal\\EmployBal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-26T16:50:49.642Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-26T16:50:49.642Z"
             },
             {
               "$type": "Document",

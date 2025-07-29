@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Wipro_Training\\day4\\ExceptionHandling\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{CFB9DF65-95F9-4029-8621-B0A5DEC894BB}|ExceptionHandling\\ExceptionHandling.csproj|d:\\wipro_training\\day4\\exceptionhandling\\exceptionhandling\\execptionex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFB9DF65-95F9-4029-8621-B0A5DEC894BB}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\execptionex2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{CFB9DF65-95F9-4029-8621-B0A5DEC894BB}|ExceptionHandling\\ExceptionHandling.csproj|d:\\wipro_training\\day4\\exceptionhandling\\exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CFB9DF65-95F9-4029-8621-B0A5DEC894BB}|ExceptionHandling\\ExceptionHandling.csproj|solutionrelative:exceptionhandling\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExecptionEx2.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day4\\ExceptionHandling\\ExceptionHandling\\ExecptionEx2.cs",
+              "RelativeDocumentMoniker": "ExceptionHandling\\ExecptionEx2.cs",
+              "ToolTip": "D:\\Wipro_Training\\day4\\ExceptionHandling\\ExceptionHandling\\ExecptionEx2.cs*",
+              "RelativeToolTip": "ExceptionHandling\\ExecptionEx2.cs*",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBYAAAA7AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-29T14:53:05.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\day4\\ExceptionHandling\\ExceptionHandling\\Program.cs",
               "RelativeDocumentMoniker": "ExceptionHandling\\Program.cs",
               "ToolTip": "D:\\Wipro_Training\\day4\\ExceptionHandling\\ExceptionHandling\\Program.cs",
               "RelativeToolTip": "ExceptionHandling\\Program.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwCIAAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-24T11:08:31.654Z",
               "EditorCaption": ""

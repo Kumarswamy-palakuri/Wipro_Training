@@ -1,0 +1,7 @@
+D:\Wipro_Training\day6\Table\Table\obj\Debug\Table.csproj.AssemblyReference.cache
+D:\Wipro_Training\day6\Table\Table\obj\Debug\Table.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\day6\Table\Table\bin\Debug\Table.exe.config
+D:\Wipro_Training\day6\Table\Table\bin\Debug\Table.exe
+D:\Wipro_Training\day6\Table\Table\bin\Debug\Table.pdb
+D:\Wipro_Training\day6\Table\Table\obj\Debug\Table.exe
+D:\Wipro_Training\day6\Table\Table\obj\Debug\Table.pdb

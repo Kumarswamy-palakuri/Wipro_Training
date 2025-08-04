@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\day6\\Table\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{253DECC3-FDB6-46F2-ADF9-2980350720C2}|Table\\Table.csproj|d:\\wipro_training\\day6\\table\\table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{253DECC3-FDB6-46F2-ADF9-2980350720C2}|Table\\Table.csproj|solutionrelative:table\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\day6\\Table\\Table\\Program.cs",
+              "RelativeDocumentMoniker": "Table\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\day6\\Table\\Table\\Program.cs*",
+              "RelativeToolTip": "Table\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-01T17:10:03.915Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

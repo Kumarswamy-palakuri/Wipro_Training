@@ -1,0 +1,8 @@
+D:\Wipro_Training\day8\OOPS\OOPS\bin\Debug\OOPS.exe.config
+D:\Wipro_Training\day8\OOPS\OOPS\bin\Debug\OOPS.exe
+D:\Wipro_Training\day8\OOPS\OOPS\bin\Debug\OOPS.pdb
+D:\Wipro_Training\day8\OOPS\OOPS\obj\Debug\OOPS.csproj.AssemblyReference.cache
+D:\Wipro_Training\day8\OOPS\OOPS\obj\Debug\OOPS.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\day8\OOPS\OOPS\obj\Debug\OOPS.exe
+D:\Wipro_Training\day8\OOPS\OOPS\obj\Debug\OOPS.pdb
+D:\Wipro_Training\day8\OOPS\OOPS\obj\Debug\OOPS.exe.config

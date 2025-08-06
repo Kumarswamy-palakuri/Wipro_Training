@@ -1,0 +1,150 @@
+db.employ.insert({"empno","1","name":"Prasanna","basic":"848234})
+
+
+
+db.employee.insert(  
+   {  
+     course: "java",  
+     details: {  
+        duration: "6 months",  
+        Trainer: "Sonoo jaiswal"  
+     },  
+     Batch: [ { size: "Small", qty: 15 }, { size: "Medium", qty: 25 } ],  
+     category: "Programming language"  
+   }  
+)  
+
+var employees =  
+    [  
+      {  
+        empno: 2,  
+        name: "Venkata",  
+        basic:88423
+      },  
+      {  
+        empno: 3,  
+        name: "Pallavi",  
+        basic:89922
+      },  
+      {  
+        empno: 4,  
+        name: "Raji",  
+        basic:90233
+      },  
+      
+    ];  
+
+db.employee.insert(employees)
+
+db.employee.find()
+
+db.employee.find({"empno":2}).pretty()
+
+db.employee.find({"
+
+db.employee.find({"name":"Venkata"}).pretty()
+db.employee.find({"basic"
+
+db.employee.find({"basic":{$gt:90000}}).pretty()
+
+db.employee.find({}, { "name": 1, "empno": 1, "_id": 0 });
+
+db.employee.find({}, { "name": 1, "empno": 1, "_id": 0 }).limit(2);
+
+db.employee.find().sort({'name',1});
+
+db.employee.find().sort({"name":1})
+
+db.employeeNew.insert(
+	{ "empno","1",
+	  "name":"Prasanna",
+	  "gender":'MALE',
+	  "dept" :"Dotnet",
+	  "desig" : "Trainer",
+	  "basic":"848234
+	}
+)
+
+var employeesNew =  
+    [  
+	{ "empno",2,
+	  "name":"Vasim",
+	  "gender":'MALE',
+	  "dept" :"Mongo",
+	  "desig" : "Expert",
+	  "basic":99233
+	},
+	{ "empno",3,
+	  "name":"Pallavi",
+	  "gender":'FEMALE',
+	  "dept" :"Dotnet",
+	  "desig" : "Expert",
+	  "basic":83223
+	},
+	{ "empno",4,
+	  "name":"Madhu",
+	  "gender":'MALE',
+	  "dept" :"Mongo",
+	  "desig" : "Developer",
+	  "basic":88234
+	},
+	{ "empno",5,
+	  "name":"Sreepriya",
+	  "gender":'FEMALE',
+	  "dept" :"Dotnet",
+	  "desig" : "Developer",
+	  "basic":80222
+	},
+	{ "empno",6,
+	  "name":"Manjula",
+	  "gender":'FEMALE',
+	  "dept" :"Dotnet",
+	  "desig" : "Developer",
+	  "basic":77333
+	},
+	{ "empno",7,
+	  "name":"Neshat",
+	  "gender":'MALE',
+	  "dept" :"Java",
+	  "desig" : "Expert",
+	  "basic":88234
+	},
+	{ "empno",8,
+	  "name":"Sreeja",
+	  "gender":'FEMALE',
+	  "dept" :"Java",
+	  "desig" : "Developer",
+	  "basic":64644
+	},
+    ];  
+
+db.employeeNew.insert(employeesNew)
+
+
+db.employeeNew.aggregate([{$group : {_id : "$dept", total_sal : {$sum : "$basic"}}}])
+db.employeeNew.aggregate([{$group : {_id : "$dept", max_sal : {$max : "$basic"}}}])
+db.employeeNew.aggregate([{$group : {_id : "$dept", min_sal : {$min : "$basic"}}}])
+db.employeeNew.aggregate([{$group : {_id : "$dept", avg_sal : {$avg : "$basic"}}}])
+
+db.employeeNew.aggregate([
+  { $count: "totalRecords" }
+]);
+
+
+db.employeeNew.aggregate([
+  {
+    $group: {
+      _id: "$dept", // Field to group by
+      count: { $sum: 1 }  // Count the number of documents in each group
+    }
+  }
+]);
+
+db.employeeNew.update({'empno':2},{$set:{'name':'Vasim Basha'}})
+
+db.employeeNew.update({'empno':4},{$set:{'name':'Venkata',
+					'gender','MALE',
+					'dept','Java',
+					'desig','expert',
+					'basic',99999
+}})

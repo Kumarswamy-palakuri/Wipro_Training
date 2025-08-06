@@ -1,0 +1,42 @@
+<html>
+    <head>
+        <script>
+            function doLogin() {
+                var user = frmLogin.userName.value;
+                var pwd = frmLogin.passWord.value;
+                if (user=="wipro" && pwd == "wipro") {
+                    // alert("Correct Credentials...");
+                    window.open("http://www.google.com")
+                } else {
+                    alert("Invalid Credentials...");
+                }
+            }
+        </script>
+    </head>
+<body>
+    <form name="frmLogin" action="javascript:doLogin()">
+       <table border="3" align="center">
+            <tr>
+                <th colspan="2">Login Page</th>
+            </tr>
+            <tr>
+                <th>User Name</th>
+                <td>
+                    <input type="text" name="userName" /> 
+                </td>
+            </tr>
+            <tr>
+                <th>Password</th>
+                <td>
+                    <input type="password" name="passWord" />
+                </td>
+            </tr>
+            <tr>
+                <th colspan="2">
+                    <input type="submit" value="Login" />
+                </th>
+            </tr>
+       </table>
+    </form>
+</body>
+</html>

@@ -14,4 +14,6 @@ select * from users;
 
 Alter table users add column is_active boolean default true;
 
+alter table users drop column is_active;
+
 

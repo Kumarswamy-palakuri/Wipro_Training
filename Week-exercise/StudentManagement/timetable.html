@@ -1,0 +1,253 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My TimeTable - Spring Flowers</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <!-- <link rel="stylesheet" href="style.css">  -->
+   <style>
+    :root {
+      --primary-color: #4a6baf;
+      --secondary-color: #6c757d;
+      --highlight-color: #e3f2fd;
+    }
+    
+    body {
+      background-color: #f8f9fa;
+      font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    }
+    
+    .timetable-container {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 1rem;
+      padding: 1rem;
+    }
+    
+    .day-card {
+      background: white;
+      border-radius: 12px;
+      box-shadow: 0 4px 12px rgba(0,0,0,0.08);
+      overflow: hidden;
+      transition: all 0.3s ease;
+      border: none;
+    }
+    
+    .day-card:hover {
+      transform: translateY(-5px);
+      box-shadow: 0 8px 16px rgba(0,0,0,0.12);
+    }
+    
+    .day-header {
+      background-color: var(--primary-color);
+      color: white;
+      padding: 1rem;
+      text-align: center;
+      font-weight: 600;
+    }
+    
+    .time-slot {
+      padding: 0.75rem 0.5rem;
+      border-bottom: 1px solid #eee;
+      transition: background 0.2s;
+    }
+    
+    .time-slot:last-child {
+      border-bottom: none;
+    }
+    
+    .time-slot:hover {
+      background-color: var(--highlight-color);
+    }
+    
+    .time-range {
+      font-weight: 600;
+      color: var(--primary-color);
+      font-size: 0.85rem;
+    }
+    
+    .subject {
+      margin-top: 0.25rem;
+      color: var(--secondary-color);
+    }
+    
+    /* Responsive adjustments */
+    @media (max-width: 576px) {
+      .timetable-container {
+        grid-template-columns: 1fr;
+      }
+      
+      .day-card {
+        margin-bottom: 1rem;
+      }
+    }
+    
+    @media (min-width: 992px) {
+      .timetable-container {
+        grid-template-columns: repeat(5, minmax(195px, 1fr));
+      }
+    }
+    
+    /* Special styling for current day */
+    .current-day {
+      border: 2px solid var(--primary-color);
+      position: relative;
+    }
+    
+    .current-day::after {
+      content: "Today";
+      position: absolute;
+      top: 5px;
+      right: 10px;
+      background: var(--primary-color);
+      color: white;
+      padding: 4px 10px;
+      border: 1px solid white ;
+      border-radius: 10px;
+      font-size: 0.5rem;
+      font-weight: bold;
+    }
+  </style>
+</head>
+<body>
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-white shadow-sm sticky-top">
+    <div class="container">
+      <a class="navbar-brand fw-bold text-primary" href="index.html">
+        <i class="bi bi-flower1 me-2"></i>Spring Flowers
+      </a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item">
+            <a class="nav-link" href="index.html">Home</a>
+          </li>
+          <li class="nav-item">
+            <a class="nav-link active fw-bold" href="timetable.html">TimeTable</a>
+          </li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container-fluid my-4">
+    <div class="d-flex justify-content-between align-items-center mb-4">
+      <h2 class="mb-0 text-primary">Weekly Schedule</h2>
+      <span class="badge bg-primary">Current Week</span>
+    </div>
+
+    <!-- Flexible Grid Timetable -->
+    <div class="timetable-container ">
+      <!-- Monday -->
+      <div class="day-card current-day">
+        <div class="day-header">Monday</div>
+        <div class="time-slot">
+          <div class="time-range">09:00 - 10:00</div>
+          <div class="subject">Mathematics</div>
+        </div>
+        <div class="time-slot">
+          <div class="time-range">10:15 - 11:15</div>
+          <div class="subject">Science</div>
+        </div>
+        <div class="time-slot">
+          <div class="time-range">11:30 - 12:30</div>
+          <div class="subject">English</div>
+        </div>
+      </div>
+
+      <!-- Tuesday -->
+      <div class="day-card">
+        <div class="day-header">Tuesday</div>
+        <div class="time-slot">
+          <div class="time-range">09:00 - 10:00</div>
+          <div class="subject">Computer Science</div>
+        </div>
+        <div class="time-slot">
+          <div class="time-range">10:15 - 11:15</div>
+          <div class="subject">Maths Practice</div>
+        </div>
+        <div class="time-slot">
+          <div class="time-range">11:30 - 12:30</div>
+          <div class="subject">Physical Education</div>
+        </div>
+      </div>
+
+      <!-- Wednesday -->
+      <div class="day-card">
+        <div class="day-header">Wednesday</div>
+        <div class="time-slot">
+          <div class="time-range">09:00 - 10:00</div>
+          <div class="subject">History</div>
+        </div>
+        <div class="time-slot">
+          <div class="time-range">10:15 - 11:15</div>
+          <div class="subject">Literature</div>
+        </div>
+        <div class="time-slot">
+          <div class="time-range">11:30 - 12:30</div>
+          <div class="subject">Study Hall</div>
+        </div>
+      </div>
+
+      <!-- Thursday -->
+      <div class="day-card">
+        <div class="day-header">Thursday</div>
+        <div class="time-slot">
+          <div class="time-range">09:00 - 10:00</div>
+          <div class="subject">Geography</div>
+        </div>
+        <div class="time-slot">
+          <div class="time-range">10:15 - 11:15</div>
+          <div class="subject">Chemistry Lab</div>
+        </div>
+        <div class="time-slot">
+          <div class="time-range">11:30 - 12:30</div>
+          <div class="subject">Elective</div>
+        </div>
+      </div>
+
+      <!-- Friday -->
+      <div class="day-card">
+        <div class="day-header">Friday</div>
+        <div class="time-slot">
+          <div class="time-range">09:00 - 10:00</div>
+          <div class="subject">Arts</div>
+        </div>
+        <div class="time-slot">
+          <div class="time-range">10:15 - 11:15</div>
+          <div class="subject">Music</div>
+        </div>
+        <div class="time-slot">
+          <div class="time-range">11:30 - 12:30</div>
+          <div class="subject">Free Period</div>
+        </div>
+      </div>
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    // Highlight current day automatically
+    document.addEventListener('DOMContentLoaded', function() {
+      const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday'];
+      const today = new Date().getDay();
+      
+      // Remove any existing current-day classes
+      document.querySelectorAll('.day-card').forEach(card => {
+        card.classList.remove('current-day');
+      });
+      
+      // Add current-day class to today's card (if it exists)
+      if (today > 0 && today < 6) { // Monday (1) to Friday (5)
+        const todayCard = document.querySelectorAll('.day-card')[today - 1];
+        if (todayCard) {
+          todayCard.classList.add('current-day');
+        }
+      }
+    });
+  </script>
+</body>
+</html>

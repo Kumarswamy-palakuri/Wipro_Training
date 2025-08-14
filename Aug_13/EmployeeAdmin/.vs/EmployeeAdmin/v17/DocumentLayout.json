@@ -1,0 +1,173 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|d:\\wipro_training\\aug_13\\employeeadmin\\employeeadmin\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|solutionrelative:employeeadmin\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|d:\\wipro_training\\aug_13\\employeeadmin\\employeeadmin\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|solutionrelative:employeeadmin\\models\\addemployeedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|d:\\wipro_training\\aug_13\\employeeadmin\\employeeadmin\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|solutionrelative:employeeadmin\\models\\entities\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|d:\\wipro_training\\aug_13\\employeeadmin\\employeeadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|solutionrelative:employeeadmin\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|d:\\wipro_training\\aug_13\\employeeadmin\\employeeadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|solutionrelative:employeeadmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|d:\\wipro_training\\aug_13\\employeeadmin\\employeeadmin\\migrations\\20250813151137_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|solutionrelative:employeeadmin\\migrations\\20250813151137_initial migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|d:\\wipro_training\\aug_13\\employeeadmin\\employeeadmin\\employeeadmin.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|solutionrelative:employeeadmin\\employeeadmin.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|d:\\wipro_training\\aug_13\\employeeadmin\\employeeadmin\\employeeadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|solutionrelative:employeeadmin\\employeeadmin.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|d:\\wipro_training\\aug_13\\employeeadmin\\employeeadmin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2C053C-4091-45D1-AB80-A5E20E6E495B}|EmployeeAdmin\\EmployeeAdmin.csproj|solutionrelative:employeeadmin\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddEmployeeDto.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Models\\AddEmployeeDto.cs",
+              "RelativeDocumentMoniker": "EmployeeAdmin\\Models\\AddEmployeeDto.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Models\\AddEmployeeDto.cs",
+              "RelativeToolTip": "EmployeeAdmin\\Models\\AddEmployeeDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:51:24.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "EmployeeAdmin\\Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "EmployeeAdmin\\Controllers\\EmployeesController.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAcwDoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:31:43.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "20250813151137_initial migration.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Migrations\\20250813151137_initial migration.cs",
+              "RelativeDocumentMoniker": "EmployeeAdmin\\Migrations\\20250813151137_initial migration.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Migrations\\20250813151137_initial migration.cs",
+              "RelativeToolTip": "EmployeeAdmin\\Migrations\\20250813151137_initial migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T15:11:38.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Program.cs",
+              "RelativeDocumentMoniker": "EmployeeAdmin\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Program.cs",
+              "RelativeToolTip": "EmployeeAdmin\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T14:59:53.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\appsettings.json",
+              "RelativeDocumentMoniker": "EmployeeAdmin\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\appsettings.json",
+              "RelativeToolTip": "EmployeeAdmin\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-13T13:54:41.454Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Models\\Entities\\Employee.cs",
+              "RelativeDocumentMoniker": "EmployeeAdmin\\Models\\Entities\\Employee.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Models\\Entities\\Employee.cs",
+              "RelativeToolTip": "EmployeeAdmin\\Models\\Entities\\Employee.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:35:58.107Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EmployeeAdmin\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EmployeeAdmin\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-13T13:41:55.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EmployeeAdmin",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\EmployeeAdmin.csproj",
+              "RelativeDocumentMoniker": "EmployeeAdmin\\EmployeeAdmin.csproj",
+              "ToolTip": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\EmployeeAdmin.csproj",
+              "RelativeToolTip": "EmployeeAdmin\\EmployeeAdmin.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-13T13:34:04.606Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmployeeAdmin.http",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\EmployeeAdmin.http",
+              "RelativeDocumentMoniker": "EmployeeAdmin\\EmployeeAdmin.http",
+              "ToolTip": "D:\\Wipro_Training\\Aug_13\\EmployeeAdmin\\EmployeeAdmin\\EmployeeAdmin.http",
+              "RelativeToolTip": "EmployeeAdmin\\EmployeeAdmin.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-13T13:33:28.329Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

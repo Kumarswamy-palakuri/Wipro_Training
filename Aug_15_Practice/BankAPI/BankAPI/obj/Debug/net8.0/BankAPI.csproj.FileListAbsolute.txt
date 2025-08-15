@@ -1,0 +1,9 @@
+D:\Wipro_Training\Aug_15_Practice\BankAPI\BankAPI\obj\Debug\net8.0\BankAPI.csproj.AssemblyReference.cache
+D:\Wipro_Training\Aug_15_Practice\BankAPI\BankAPI\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Wipro_Training\Aug_15_Practice\BankAPI\BankAPI\obj\Debug\net8.0\BankAPI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro_Training\Aug_15_Practice\BankAPI\BankAPI\obj\Debug\net8.0\BankAPI.AssemblyInfoInputs.cache
+D:\Wipro_Training\Aug_15_Practice\BankAPI\BankAPI\obj\Debug\net8.0\BankAPI.AssemblyInfo.cs
+D:\Wipro_Training\Aug_15_Practice\BankAPI\BankAPI\obj\Debug\net8.0\BankAPI.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\Aug_15_Practice\BankAPI\BankAPI\obj\Debug\net8.0\BankAPI.MvcApplicationPartsAssemblyInfo.cs
+D:\Wipro_Training\Aug_15_Practice\BankAPI\BankAPI\obj\Debug\net8.0\BankAPI.MvcApplicationPartsAssemblyInfo.cache
+D:\Wipro_Training\Aug_15_Practice\BankAPI\BankAPI\obj\Debug\net8.0\BankAPI.sourcelink.json

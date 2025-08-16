@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\Aug_16\\CMSApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\cmsapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\cmsapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\data\\cmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\data\\cmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\helpers\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\migrations\\20250816062759_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\migrations\\20250816062759_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "CMSApi\\Models\\Customer.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Models\\Customer.cs",
+              "RelativeToolTip": "CMSApi\\Models\\Customer.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBAAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:18:08.908Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Program.cs",
+              "RelativeDocumentMoniker": "CMSApi\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Program.cs",
+              "RelativeToolTip": "CMSApi\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:19:40.254Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CustomersController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Controllers\\CustomersController.cs",
+              "RelativeDocumentMoniker": "CMSApi\\Controllers\\CustomersController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Controllers\\CustomersController.cs",
+              "RelativeToolTip": "CMSApi\\Controllers\\CustomersController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAywF4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:21:10.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\appsettings.json",
+              "RelativeDocumentMoniker": "CMSApi\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\appsettings.json",
+              "RelativeToolTip": "CMSApi\\appsettings.json",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAkAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-16T06:19:18.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CmsContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Data\\CmsContext.cs",
+              "RelativeDocumentMoniker": "CMSApi\\Data\\CmsContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Data\\CmsContext.cs",
+              "RelativeToolTip": "CMSApi\\Data\\CmsContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:19:00.192Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Helpers\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "CMSApi\\Helpers\\EncryptionHelper.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Helpers\\EncryptionHelper.cs",
+              "RelativeToolTip": "CMSApi\\Helpers\\EncryptionHelper.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwD4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:38:48.363Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Helpers\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "CMSApi\\Helpers\\PasswordHasher.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Helpers\\PasswordHasher.cs",
+              "RelativeToolTip": "CMSApi\\Helpers\\PasswordHasher.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:20:32.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250816062759_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Migrations\\20250816062759_InitialCreate.cs",
+              "RelativeDocumentMoniker": "CMSApi\\Migrations\\20250816062759_InitialCreate.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Migrations\\20250816062759_InitialCreate.cs",
+              "RelativeToolTip": "CMSApi\\Migrations\\20250816062759_InitialCreate.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAuwAkAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:27:59.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CMSApi.http",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\CMSApi.http",
+              "RelativeDocumentMoniker": "CMSApi\\CMSApi.http",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\CMSApi.http",
+              "RelativeToolTip": "CMSApi\\CMSApi.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-16T07:09:31.026Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

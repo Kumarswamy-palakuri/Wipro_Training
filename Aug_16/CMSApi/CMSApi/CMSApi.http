@@ -1,0 +1,6 @@
+@CMSApi_HostAddress = http://localhost:5211
+
+GET {{CMSApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

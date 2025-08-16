@@ -1,0 +1,133 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\Aug_15_Practice\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|d:\\wipro_training\\aug_15_practice\\bankproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|d:\\wipro_training\\aug_15_practice\\bankproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\controllers\\logincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|d:\\wipro_training\\aug_15_practice\\bankproject\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\middleware\\sendmail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|d:\\wipro_training\\aug_15_practice\\bankproject\\bankproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\bankproject.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|d:\\wipro_training\\aug_15_practice\\bankproject\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\middleware\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|d:\\wipro_training\\aug_15_practice\\bankproject\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\middleware\\decryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|d:\\wipro_training\\aug_15_practice\\bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4F8F4B4C-9C18-48BF-BABF-EC0FFC3A6104}|BankProject\\BankProject.csproj|solutionrelative:bankproject\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SendMail.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\Middleware\\SendMail.cs",
+              "RelativeDocumentMoniker": "BankProject\\Middleware\\SendMail.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\Middleware\\SendMail.cs",
+              "RelativeToolTip": "BankProject\\Middleware\\SendMail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T11:02:17.117Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\Controllers\\LoginController.cs",
+              "RelativeDocumentMoniker": "BankProject\\Controllers\\LoginController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\Controllers\\LoginController.cs",
+              "RelativeToolTip": "BankProject\\Controllers\\LoginController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwCQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T11:02:10.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EncryptionHelper.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\Middleware\\EncryptionHelper.cs",
+              "RelativeDocumentMoniker": "BankProject\\Middleware\\EncryptionHelper.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\Middleware\\EncryptionHelper.cs",
+              "RelativeToolTip": "BankProject\\Middleware\\EncryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T11:01:57.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DecryptionHelper.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\Middleware\\DecryptionHelper.cs",
+              "RelativeDocumentMoniker": "BankProject\\Middleware\\DecryptionHelper.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\Middleware\\DecryptionHelper.cs",
+              "RelativeToolTip": "BankProject\\Middleware\\DecryptionHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T11:01:53.497Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankProject.http",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\BankProject.http",
+              "RelativeDocumentMoniker": "BankProject\\BankProject.http",
+              "ToolTip": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\BankProject.http",
+              "RelativeToolTip": "BankProject\\BankProject.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-15T11:01:40.435Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\appsettings.json",
+              "RelativeDocumentMoniker": "BankProject\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\appsettings.json",
+              "RelativeToolTip": "BankProject\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-15T10:59:44.504Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\Program.cs",
+              "RelativeDocumentMoniker": "BankProject\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_15_Practice\\BankProject\\Program.cs",
+              "RelativeToolTip": "BankProject\\Program.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-15T10:59:27.735Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

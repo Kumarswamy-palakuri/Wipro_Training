@@ -15,28 +15,50 @@ const AddCustomer = () => {
   });
 
   const [message, setMessage] = useState("");
+  const [errors, setErrors] = useState({});
+
+  const validateForm = () => {
+    const newErrors = {};
+    if (!formData.custName.trim()) newErrors.custName = "Name is required";
+    if (!formData.custUserName.trim()) newErrors.custUserName = "Username is required";
+    if (!formData.custPassword) newErrors.custPassword = "Password is required";
+    if (!formData.city.trim()) newErrors.city = "City is required";
+    if (!formData.state.trim()) newErrors.state = "State is required";
+    if (!formData.email.trim()) {
+      newErrors.email = "Email is required";
+    } else if (!/^\S+@\S+\.\S+$/.test(formData.email)) {
+      newErrors.email = "Invalid email format";
+    }
+    if (!formData.mobileNo.trim()) {
+      newErrors.mobileNo = "Mobile number is required";
+    } else if (!/^\d{10}$/.test(formData.mobileNo)) {
+      newErrors.mobileNo = "Invalid mobile number (10 digits)";
+    }
+
+    setErrors(newErrors);
+    return Object.keys(newErrors).length === 0;
+  };
 
   const handleChange = (e) => {
+    const { name, value } = e.target;
     setFormData({
       ...formData,
-      [e.target.name]: e.target.value
+      [name]: value
     });
+    
+    if (errors[name]) {
+      setErrors({
+        ...errors,
+        [name]: null
+      });
+    }
   };
 
   const handleSubmit = async (e) => {
     e.preventDefault();
-
-    // Validation
-    if (
-      !formData.custName ||
-      !formData.custUserName ||
-      !formData.custPassword ||
-      !formData.city ||
-      !formData.state ||
-      !formData.email ||
-      !formData.mobileNo
-    ) {
-      setMessage("All fields are required.");
+    
+    if (!validateForm()) {
+      setMessage("Please fix the errors in the form");
       return;
     }
 
@@ -52,7 +74,7 @@ const AddCustomer = () => {
         }
       );
 
-      setMessage(res.data.message);
+      setMessage(res.data.message || "Customer added successfully!");
       setFormData({
         custId: 0,
         custName: "",
@@ -63,73 +85,268 @@ const AddCustomer = () => {
         email: "",
         mobileNo: ""
       });
+      setErrors({});
     } catch (err) {
       if (err.response) {
         setMessage(`Error: ${err.response.data}`);
       } else {
-        setMessage("Something went wrong.");
+        setMessage("Something went wrong. Please try again later.");
       }
     }
   };
 
-  return (
-    <div>
-       <Menu />
-      <h2>Add Customer</h2>
-      <form onSubmit={handleSubmit}>
-        <input
-          type="text"
-          name="custName"
-          placeholder="Name"
-          value={formData.custName}
-          onChange={handleChange}
-        />
-        <input
-          type="text"
-          name="custUserName"
-          placeholder="Username"
-          value={formData.custUserName}
-          onChange={handleChange}
-        />
-        <input
-          type="password"
-          name="custPassword"
-          placeholder="Password"
-          value={formData.custPassword}
-          onChange={handleChange}
-        />
-        <input
-          type="text"
-          name="city"
-          placeholder="City"
-          value={formData.city}
-          onChange={handleChange}
-        />
-        <input
-          type="text"
-          name="state"
-          placeholder="State"
-          value={formData.state}
-          onChange={handleChange}
-        />
-        <input
-          type="email"
-          name="email"
-          placeholder="Email"
-          value={formData.email}
-          onChange={handleChange}
-        />
-        <input
-          type="text"
-          name="mobileNo"
-          placeholder="Mobile Number"
-          value={formData.mobileNo}
-          onChange={handleChange}
-        />
+  // Styling
+  const containerStyle = {
+    display: "flex",
+    flexDirection: "column",
+    minHeight: "100vh",
+    backgroundColor: "#f5f5f5",
+    fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif",
+  };
 
-        <button type="submit">Add</button>
-      </form>
-      <p>{message}</p>
+  const contentStyle = {
+    maxWidth: "500px",
+    width: "100%",
+    margin: "40px auto",
+    padding: "30px",
+    backgroundColor: "white",
+    borderRadius: "10px",
+    boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)",
+  };
+
+  const headingStyle = {
+    textAlign: "center",
+    color: "#333",
+    marginBottom: "30px",
+    fontSize: "24px",
+    fontWeight: "600",
+  };
+
+  const formStyle = {
+    display: "flex",
+    flexDirection: "column",
+    gap: "20px",
+  };
+
+  const inputGroupStyle = {
+    display: "flex",
+    flexDirection: "column",
+  };
+
+  const labelStyle = {
+    marginBottom: "8px",
+    fontSize: "14px",
+    fontWeight: "500",
+    color: "#555",
+  };
+
+  const inputStyle = {
+    padding: "12px 15px",
+    borderRadius: "6px",
+    border: "1px solid #ddd",
+    fontSize: "16px",
+    transition: "all 0.3s",
+    outline: "none",
+  };
+
+  const errorInputStyle = {
+    ...inputStyle,
+    borderColor: "#e74c3c",
+  };
+
+  const errorTextStyle = {
+    color: "#e74c3c",
+    fontSize: "13px",
+    marginTop: "5px",
+  };
+
+  const rowStyle = {
+    display: "flex",
+    gap: "15px",
+  };
+
+  const columnStyle = {
+    flex: 1,
+    display: "flex",
+    flexDirection: "column",
+  };
+   const loginbox = {
+    textAlign:"center",
+    fontSize:"18px",
+    color:"#0e336dff"
+  };
+
+  const buttonStyle = {
+    padding: "14px 20px",
+    backgroundColor: "#3498db",
+    color: "white",
+    border: "none",
+    borderRadius: "6px",
+    cursor: "pointer",
+    fontSize: "16px",
+    fontWeight: "600",
+    transition: "background-color 0.3s",
+    marginTop: "10px",
+    boxShadow: "0 2px 4px rgba(0, 0, 0, 0.1)",
+  };
+
+  const messageStyle = {
+    padding: "15px",
+    borderRadius: "6px",
+    marginTop: "20px",
+    textAlign: "center",
+    fontSize: "15px",
+  };
+
+  const successStyle = {
+    backgroundColor: "#d4f8e8",
+    color: "#27ae60",
+    border: "1px solid #2ecc71",
+  };
+
+  const errorStyle = {
+    backgroundColor: "#fadbd8",
+    color: "#c0392b",
+    border: "1px solid #e74c3c",
+  };
+
+  return (
+    <div style={containerStyle}>
+      {/* <Menu /> */}
+      <div style={contentStyle}>
+        <h2 style={headingStyle}>Add New Customer</h2>
+        
+        <form onSubmit={handleSubmit} style={formStyle}>
+          <div style={inputGroupStyle}>
+            <label style={labelStyle}>Full Name</label>
+            <input
+              style={errors.custName ? errorInputStyle : inputStyle}
+              type="text"
+              name="custName"
+              placeholder="Enter full name"
+              value={formData.custName}
+              onChange={handleChange}
+              onFocus={e => e.target.style.borderColor = "#3498db"}
+              onBlur={e => e.target.style.borderColor = errors.custName ? "#e74c3c" : "#ddd"}
+            />
+            {errors.custName && <span style={errorTextStyle}>{errors.custName}</span>}
+          </div>
+
+          <div style={inputGroupStyle}>
+            <label style={labelStyle}>Username</label>
+            <input
+              style={errors.custUserName ? errorInputStyle : inputStyle}
+              type="text"
+              name="custUserName"
+              placeholder="Enter username"
+              value={formData.custUserName}
+              onChange={handleChange}
+              onFocus={e => e.target.style.borderColor = "#3498db"}
+              onBlur={e => e.target.style.borderColor = errors.custUserName ? "#e74c3c" : "#ddd"}
+            />
+            {errors.custUserName && <span style={errorTextStyle}>{errors.custUserName}</span>}
+          </div>
+
+          <div style={inputGroupStyle}>
+            <label style={labelStyle}>Password</label>
+            <input
+              style={errors.custPassword ? errorInputStyle : inputStyle}
+              type="password"
+              name="custPassword"
+              placeholder="Enter password"
+              value={formData.custPassword}
+              onChange={handleChange}
+              onFocus={e => e.target.style.borderColor = "#3498db"}
+              onBlur={e => e.target.style.borderColor = errors.custPassword ? "#e74c3c" : "#ddd"}
+            />
+            {errors.custPassword && <span style={errorTextStyle}>{errors.custPassword}</span>}
+          </div>
+
+          <div style={rowStyle}>
+            <div style={columnStyle}>
+              <label style={labelStyle}>City</label>
+              <input
+                style={errors.city ? errorInputStyle : inputStyle}
+                type="text"
+                name="city"
+                placeholder="Enter city"
+                value={formData.city}
+                onChange={handleChange}
+                onFocus={e => e.target.style.borderColor = "#3498db"}
+                onBlur={e => e.target.style.borderColor = errors.city ? "#e74c3c" : "#ddd"}
+              />
+              {errors.city && <span style={errorTextStyle}>{errors.city}</span>}
+            </div>
+            
+            <div style={columnStyle}>
+              <label style={labelStyle}>State</label>
+              <input
+                style={errors.state ? errorInputStyle : inputStyle}
+                type="text"
+                name="state"
+                placeholder="Enter state"
+                value={formData.state}
+                onChange={handleChange}
+                onFocus={e => e.target.style.borderColor = "#3498db"}
+                onBlur={e => e.target.style.borderColor = errors.state ? "#e74c3c" : "#ddd"}
+              />
+              {errors.state && <span style={errorTextStyle}>{errors.state}</span>}
+            </div>
+          </div>
+
+          <div style={inputGroupStyle}>
+            <label style={labelStyle}>Email Address</label>
+            <input
+              style={errors.email ? errorInputStyle : inputStyle}
+              type="email"
+              name="email"
+              placeholder="Enter email address"
+              value={formData.email}
+              onChange={handleChange}
+              onFocus={e => e.target.style.borderColor = "#3498db"}
+              onBlur={e => e.target.style.borderColor = errors.email ? "#e74c3c" : "#ddd"}
+            />
+            {errors.email && <span style={errorTextStyle}>{errors.email}</span>}
+          </div>
+
+          <div style={inputGroupStyle}>
+            <label style={labelStyle}>Mobile Number</label>
+            <input
+              style={errors.mobileNo ? errorInputStyle : inputStyle}
+              type="tel"
+              name="mobileNo"
+              placeholder="Enter mobile number"
+              value={formData.mobileNo}
+              onChange={handleChange}
+              onFocus={e => e.target.style.borderColor = "#3498db"}
+              onBlur={e => e.target.style.borderColor = errors.mobileNo ? "#e74c3c" : "#ddd"}
+            />
+            {errors.mobileNo && <span style={errorTextStyle}>{errors.mobileNo}</span>}
+          </div>
+
+          <button 
+            type="submit" 
+            style={buttonStyle}
+            onMouseOver={e => e.target.style.backgroundColor = "#2980b9"}
+            onMouseOut={e => e.target.style.backgroundColor = "#3498db"}
+          >
+            Add Customer
+          </button>
+        </form>
+        <a href="/" style={loginbox}>back to login?</a>
+        {message && (
+          <div style={{
+            ...messageStyle,
+            ...(message.includes("Error") || message.includes("required") ? errorStyle : successStyle)
+          }}>
+            {message}
+
+
+          </div>
+          
+        )}
+      </div>
+     
     </div>
   );
 };

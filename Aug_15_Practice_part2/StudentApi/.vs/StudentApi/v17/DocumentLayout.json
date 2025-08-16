@@ -56,7 +56,7 @@
               "RelativeDocumentMoniker": "StudentApi\\Controllers\\StudentsController.cs",
               "ToolTip": "D:\\Wipro_Training\\Aug_15_Practice_part2\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "StudentApi\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAABoAAAAAAAAAAAAYwCAAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAZAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-08-15T16:36:50.578Z",
               "EditorCaption": ""
@@ -71,8 +71,7 @@
               "RelativeToolTip": "StudentApi\\Data\\ApplicationDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:32:09.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T16:32:09.082Z"
             },
             {
               "$type": "Document",

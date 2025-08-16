@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "D:\\Wipro_Training\\Aug_15_Practice_part2\\StudentApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F0C2B960-0C9E-431F-83CF-58218D9E05E8}|StudentApi\\StudentApi.csproj|d:\\wipro_training\\aug_15_practice_part2\\studentapi\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F0C2B960-0C9E-431F-83CF-58218D9E05E8}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F0C2B960-0C9E-431F-83CF-58218D9E05E8}|StudentApi\\StudentApi.csproj|d:\\wipro_training\\aug_15_practice_part2\\studentapi\\studentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0C2B960-0C9E-431F-83CF-58218D9E05E8}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0C2B960-0C9E-431F-83CF-58218D9E05E8}|StudentApi\\StudentApi.csproj|d:\\wipro_training\\aug_15_practice_part2\\studentapi\\studentapi\\migrations\\20250815164642_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F0C2B960-0C9E-431F-83CF-58218D9E05E8}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\migrations\\20250815164642_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F0C2B960-0C9E-431F-83CF-58218D9E05E8}|StudentApi\\StudentApi.csproj|d:\\wipro_training\\aug_15_practice_part2\\studentapi\\studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F0C2B960-0C9E-431F-83CF-58218D9E05E8}|StudentApi\\StudentApi.csproj|solutionrelative:studentapi\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F0C2B960-0C9E-431F-83CF-58218D9E05E8}|StudentApi\\StudentApi.csproj|d:\\wipro_training\\aug_15_practice_part2\\studentapi\\studentapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -34,11 +34,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "20250815164642_InitialCreate.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Aug_15_Practice_part2\\StudentApi\\StudentApi\\Migrations\\20250815164642_InitialCreate.cs",
               "RelativeDocumentMoniker": "StudentApi\\Migrations\\20250815164642_InitialCreate.cs",
@@ -50,28 +50,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "StudentsController.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Aug_15_Practice_part2\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
               "RelativeDocumentMoniker": "StudentApi\\Controllers\\StudentsController.cs",
               "ToolTip": "D:\\Wipro_Training\\Aug_15_Practice_part2\\StudentApi\\StudentApi\\Controllers\\StudentsController.cs",
               "RelativeToolTip": "StudentApi\\Controllers\\StudentsController.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAuwD4AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAACAAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:36:50.578Z"
+              "WhenOpened": "2025-08-15T16:36:50.578Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Aug_15_Practice_part2\\StudentApi\\StudentApi\\Data\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "StudentApi\\Data\\ApplicationDbContext.cs",
               "ToolTip": "D:\\Wipro_Training\\Aug_15_Practice_part2\\StudentApi\\StudentApi\\Data\\ApplicationDbContext.cs",
               "RelativeToolTip": "StudentApi\\Data\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-15T16:32:09.082Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T16:32:09.082Z"
             },
             {
               "$type": "Document",

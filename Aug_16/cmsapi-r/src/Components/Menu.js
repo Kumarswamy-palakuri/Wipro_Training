@@ -31,9 +31,9 @@ function Menu() {
     <nav style={navStyle}>
       {/* <Link to="/add" style={linkStyle}>Add Customer</Link> */}
       <span style={separatorStyle}>|</span>
-      <Link to="/search-by-id" style={linkStyle}>Search By ID</Link>
+      <Link to="/searchbyid" style={linkStyle}>Search By ID</Link>
       <span style={separatorStyle}>|</span>
-      {/* <Link to="/search-by-un">Search By Username</Link> | */}
+      {/* <Link style={linkStyle} to="/searchbyun">Search By Username</Link> | */}
       <Link to="/show" style={linkStyle}>Show Customers</Link>
       <span style={separatorStyle}>|</span>
       <Link to="/" style={{ ...linkStyle, backgroundColor: "#e0e0e0" }}>Log-out</Link>

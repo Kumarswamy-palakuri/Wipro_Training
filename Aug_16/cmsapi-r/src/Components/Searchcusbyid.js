@@ -72,12 +72,14 @@ import React, { useState } from "react";
 import axios from "axios";
 import Menu from "./Menu";
 import WalletDisplay from "./WalletDisplay";
+import CustomerDetails from "./CustomerDetails";
+import { useNavigate } from "react-router-dom";
 
 const SearchCusById = () => {
   const [id, setId] = useState("");
   const [customer, setCustomer] = useState(null);
   const [message, setMessage] = useState("");
-
+  const Navigate = useNavigate();
   const handleSearch = async () => {
     try {
       // Reset states
@@ -96,11 +98,16 @@ const SearchCusById = () => {
       setCustomer(null);
     }
   };
-
+ const handleSubmit = (e) => {
+    e.preventDefault();
+    if (id.trim()) {
+      Navigate(`/searchbyid/${id.trim()}`);
+    }
+  }
   // CSS styles object
   const styles = {
     container: {
-      maxWidth: "800px",
+      maxWidth: "80%",
       margin: "0 auto",
       padding: "20px",
       fontFamily: "'Segoe UI', Tahoma, Geneva, Verdana, sans-serif"
@@ -193,6 +200,7 @@ const SearchCusById = () => {
         />
         <button 
           onClick={handleSearch}
+          // onClick={handleSubmit}
           style={styles.button}
           onMouseOver={e => e.target.style.backgroundColor = "#2980b9"}
           onMouseOut={e => e.target.style.backgroundColor = "#3498db"}
@@ -203,43 +211,12 @@ const SearchCusById = () => {
       
       {message && <p style={styles.error}>{message}</p>}
       
-      {customer && (
-        <div style={styles.customerCard}>
-          <h3 style={styles.cardHeader}>Customer Details</h3>
-          <div style={styles.detailGrid}>
-            <div style={styles.detailItem}>
-              <div style={styles.detailLabel}>ID</div>
-              <div style={styles.detailValue}>{customer.custId}</div>
-            </div>
-            <div style={styles.detailItem}>
-              <div style={styles.detailLabel}>Name</div>
-              <div style={styles.detailValue}>{customer.custName}</div>
-            </div>
-            <div style={styles.detailItem}>
-              <div style={styles.detailLabel}>Username</div>
-              <div style={styles.detailValue}>{customer.custUserName}</div>
-            </div>
-            <div style={styles.detailItem}>
-              <div style={styles.detailLabel}>Email</div>
-              <div style={styles.detailValue}>{customer.email}</div>
-            </div>
-            <div style={styles.detailItem}>
-              <div style={styles.detailLabel}>Mobile</div>
-              <div style={styles.detailValue}>{customer.mobileNo}</div>
-            </div>
-            <div style={styles.detailItem}>
-              <div style={styles.detailLabel}>City</div>
-              <div style={styles.detailValue}>{customer.city}</div>
-            </div>
-            <div style={styles.detailItem}>
-              <div style={styles.detailLabel}>State</div>
-              <div style={styles.detailValue}>{customer.state}</div>
-            </div>
-          </div>
-
-          <WalletDisplay custId={customer.custId} />
-        </div>
-      )}
+{customer && (
+  <>
+    <CustomerDetails customer={customer} />
+    <WalletDisplay custId={customer.custId} />
+  </>
+)}
     </div>
   );
 };

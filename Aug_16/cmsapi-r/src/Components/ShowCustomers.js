@@ -81,6 +81,8 @@ const ShowCustomers = () => {
       <style>
         {`
           .customers-container {
+          width:80%;
+          margin:auto;
             padding: 20px;
             font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
           }

@@ -11,7 +11,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace CMSApi.Migrations
 {
     [DbContext(typeof(CmsContext))]
-    [Migration("20250816062759_InitialCreate")]
+    [Migration("20250817035645_InitialCreate")]
     partial class InitialCreate
     {
         /// <inheritdoc />
@@ -33,7 +33,6 @@ namespace CMSApi.Migrations
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("CustId"));
 
                     b.Property<string>("City")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("CustName")
@@ -49,20 +48,54 @@ namespace CMSApi.Migrations
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("Email")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("MobileNo")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.Property<string>("State")
-                        .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
                     b.HasKey("CustId");
 
                     b.ToTable("Customers");
+                });
+
+            modelBuilder.Entity("CMSApi.Models.Wallet", b =>
+                {
+                    b.Property<int>("WalletId")
+                        .ValueGeneratedOnAdd()
+                        .HasColumnType("int");
+
+                    SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("WalletId"));
+
+                    b.Property<int>("CustId")
+                        .HasColumnType("int");
+
+                    b.Property<decimal>("WalletAmount")
+                        .HasColumnType("decimal(9,2)");
+
+                    b.Property<string>("WalletType")
+                        .IsRequired()
+                        .HasMaxLength(30)
+                        .HasColumnType("nvarchar(30)");
+
+                    b.HasKey("WalletId");
+
+                    b.HasIndex("CustId");
+
+                    b.ToTable("Wallets");
+                });
+
+            modelBuilder.Entity("CMSApi.Models.Wallet", b =>
+                {
+                    b.HasOne("CMSApi.Models.Customer", "Customer")
+                        .WithMany()
+                        .HasForeignKey("CustId")
+                        .OnDelete(DeleteBehavior.Restrict)
+                        .IsRequired();
+
+                    b.Navigation("Customer");
                 });
 #pragma warning restore 612, 618
         }

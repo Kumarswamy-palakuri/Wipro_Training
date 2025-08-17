@@ -3,6 +3,8 @@ import React, { useState, useEffect } from "react";
 import axios from "axios";
 import { useParams, useNavigate } from "react-router-dom";
 import Menu from "./Menu";
+import WalletDisplay from "./WalletDisplay";
+import CustomerDetails from "./CustomerDetails"
 
 const Searchcusbyun = () => {
   const { username } = useParams();
@@ -46,68 +48,68 @@ const Searchcusbyun = () => {
   };
 
   // WalletDisplay component with integrated design
-  const WalletDisplay = ({ custId }) => {
-    const [wallets, setWallets] = useState([]);
-    const [walletLoading, setWalletLoading] = useState(false);
-    const [walletError, setWalletError] = useState("");
+  // const WalletDisplay = ({ custId }) => {
+  //   const [wallets, setWallets] = useState([]);
+  //   const [walletLoading, setWalletLoading] = useState(false);
+  //   const [walletError, setWalletError] = useState("");
 
-    useEffect(() => {
-      const fetchWallets = async () => {
-        try {
-          setWalletLoading(true);
-          setWalletError("");
+  //   useEffect(() => {
+  //     const fetchWallets = async () => {
+  //       try {
+  //         setWalletLoading(true);
+  //         setWalletError("");
           
-          const res = await axios.get(
-            `https://localhost:7012/api/Wallet/customer/${custId}`
-          );
+  //         const res = await axios.get(
+  //           `https://localhost:7012/api/Wallet/customer/${custId}`
+  //         );
           
-          // Handle both array and single wallet responses
-          const walletData = Array.isArray(res.data) ? res.data : [res.data];
-          setWallets(walletData);
-        } catch (err) {
-          setWalletError("No wallets found for this customer");
-        } finally {
-          setWalletLoading(false);
-        }
-      };
+  //         // Handle both array and single wallet responses
+  //         const walletData = Array.isArray(res.data) ? res.data : [res.data];
+  //         setWallets(walletData);
+  //       } catch (err) {
+  //         setWalletError("No wallets found for this customer");
+  //       } finally {
+  //         setWalletLoading(false);
+  //       }
+  //     };
 
-      if (custId) {
-        fetchWallets();
-      }
-    }, [custId]);
+  //     if (custId) {
+  //       fetchWallets();
+  //     }
+  //   }, [custId]);
 
-    return (
-      <div className="wallet-section">
-        <h3 className="wallet-header">
-          <svg className="wallet-icon" viewBox="0 0 24 24">
-            <path d="M21 18v1c0 1.1-.9 2-2 2H5c-1.11 0-2-.9-2-2V5c0-1.1.89-2 2-2h14c1.1 0 2 .9 2 2v1h-9c-1.11 0-2 .9-2 2v8c0 1.1.89 2 2 2h9zm-9-2h10V8H12v8zm4-2.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/>
-          </svg>
-          Wallet Information
-        </h3>
+  //   return (
+  //     <div className="wallet-section">
+  //       <h3 className="wallet-header">
+  //         <svg className="wallet-icon" viewBox="0 0 24 24">
+  //           <path d="M21 18v1c0 1.1-.9 2-2 2H5c-1.11 0-2-.9-2-2V5c0-1.1.89-2 2-2h14c1.1 0 2 .9 2 2v1h-9c-1.11 0-2 .9-2 2v8c0 1.1.89 2 2 2h9zm-9-2h10V8H12v8zm4-2.5c-.83 0-1.5-.67-1.5-1.5s.67-1.5 1.5-1.5 1.5.67 1.5 1.5-.67 1.5-1.5 1.5z"/>
+  //         </svg>
+  //         Wallet Information
+  //       </h3>
         
-        {walletLoading && (
-          <div className="wallet-loading">
-            <div className="loading-spinner"></div>
-            Loading wallet information...
-          </div>
-        )}
+  //       {walletLoading && (
+  //         <div className="wallet-loading">
+  //           <div className="loading-spinner"></div>
+  //           Loading wallet information...
+  //         </div>
+  //       )}
         
-        {walletError && <p className="wallet-error">{walletError}</p>}
+  //       {walletError && <p className="wallet-error">{walletError}</p>}
         
-        {wallets.length > 0 && (
-          <div className="wallets-container">
-            {wallets.map(wallet => (
-              <div key={wallet.walletId} className="wallet-card">
-                <div className="wallet-id">Wallet ID: {wallet.walletId}</div>
-                <div className="wallet-type">Type: {wallet.walletType}</div>
-                <div className="wallet-amount">Amount: ${wallet.walletAmount.toFixed(2)}</div>
-              </div>
-            ))}
-          </div>
-        )}
-      </div>
-    );
-  };
+  //       {wallets.length > 0 && (
+  //         <div className="wallets-container">
+  //           {wallets.map(wallet => (
+  //             <div key={wallet.walletId} className="wallet-card">
+  //               <div className="wallet-id">Wallet ID: {wallet.walletId}</div>
+  //               <div className="wallet-type">Type: {wallet.walletType}</div>
+  //               <div className="wallet-amount">Amount: ${wallet.walletAmount.toFixed(2)}</div>
+  //             </div>
+  //           ))}
+  //         </div>
+  //       )}
+  //     </div>
+  //   );
+  // };
 
   return (
     <div className="search-container">
@@ -115,11 +117,11 @@ const Searchcusbyun = () => {
       <style jsx>{`
         .search-container {
           font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-          max-width: 1000px;
+          max-width: 80%;
           margin: 0 auto;
           padding: 20px;
           color: #333;
-          background: linear-gradient(135deg, #f5f7fa 0%, #e4e7f1 100%);
+          // background: linear-gradient(135deg, #f5f7fa 0%, #e4e7f1 100%);
           min-height: 100vh;
         }
         
@@ -469,69 +471,71 @@ const Searchcusbyun = () => {
       {message && <div className="message">{message}</div>}
       
       {customer ? (
-        <div className="customer-card">
-          <div className="customer-header">
-            <h2>
-              <svg className="customer-icon" viewBox="0 0 24 24">
-                <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
-              </svg>
-              Customer Details
-            </h2>
-          </div>
+        // <div className="customer-card">
+        //   <div className="customer-header">
+        //     <h2>
+        //       <svg className="customer-icon" viewBox="0 0 24 24">
+        //         <path d="M12 12c2.21 0 4-1.79 4-4s-1.79-4-4-4-4 1.79-4 4 1.79 4 4 4zm0 2c-2.67 0-8 1.34-8 4v2h16v-2c0-2.66-5.33-4-8-4z"/>
+        //       </svg>
+        //       Customer Details
+        //     </h2>
+        //   </div>
           
-          <div className="customer-details">
-            <div>
-              <div className="detail-group">
-                <span className="detail-label">Customer ID</span>
-                <div className="detail-value">{customer.custId}</div>
-              </div>
+        //   <div className="customer-details">
+        //     <div>
+        //       <div className="detail-group">
+        //         <span className="detail-label">Customer ID</span>
+        //         <div className="detail-value">{customer.custId}</div>
+        //       </div>
               
-              <div className="detail-group">
-                <span className="detail-label">Full Name</span>
-                <div className="detail-value">{customer.custName}</div>
-              </div>
+        //       <div className="detail-group">
+        //         <span className="detail-label">Full Name</span>
+        //         <div className="detail-value">{customer.custName}</div>
+        //       </div>
               
-              <div className="detail-group">
-                <span className="detail-label">Username</span>
-                <div className="detail-value highlight">{customer.custUserName}</div>
-              </div>
+        //       <div className="detail-group">
+        //         <span className="detail-label">Username</span>
+        //         <div className="detail-value highlight">{customer.custUserName}</div>
+        //       </div>
               
-              <div className="detail-group">
-                <span className="detail-label">Email</span>
-                <div className="detail-value">{customer.email}</div>
-              </div>
-            </div>
+        //       <div className="detail-group">
+        //         <span className="detail-label">Email</span>
+        //         <div className="detail-value">{customer.email}</div>
+        //       </div>
+        //     </div>
             
-            <div>
-              <div className="detail-group">
-                <span className="detail-label">Mobile Number</span>
-                <div className="detail-value">{customer.mobileNo}</div>
-              </div>
+        //     <div>
+        //       <div className="detail-group">
+        //         <span className="detail-label">Mobile Number</span>
+        //         <div className="detail-value">{customer.mobileNo}</div>
+        //       </div>
               
-              <div className="detail-group">
-                <span className="detail-label">Location</span>
-                <div className="detail-value">{customer.city}, {customer.state}</div>
-              </div>
+        //       <div className="detail-group">
+        //         <span className="detail-label">Location</span>
+        //         <div className="detail-value">{customer.city}, {customer.state}</div>
+        //       </div>
               
-              <div className="detail-group">
-                <span className="detail-label">Account Status</span>
-                <div className="detail-value">
-                  <span style={{
-                    background: "#38a169",
-                    color: "white",
-                    padding: "5px 15px",
-                    borderRadius: "20px",
-                    fontSize: "0.9rem"
-                  }}>
-                    Active
-                  </span>
-                </div>
-              </div>
-            </div>
-          </div>
+        //       <div className="detail-group">
+        //         <span className="detail-label">Account Status</span>
+        //         <div className="detail-value">
+        //           <span style={{
+        //             background: "#38a169",
+        //             color: "white",
+        //             padding: "5px 15px",
+        //             borderRadius: "20px",
+        //             fontSize: "0.9rem"
+        //           }}>
+        //             Active
+        //           </span>
+        //         </div>
+        //       </div>
+        //     </div>
+        //   </div>
           
-          <WalletDisplay custId={customer.custId} />
-        </div>
+        //   <WalletDisplay custId={customer.custId} />
+        // </div>
+        <CustomerDetails customer={customer} />
+        
       ) : (
         !loading && !message && (
           <div className="empty-state">
@@ -546,6 +550,8 @@ const Searchcusbyun = () => {
           </div>
         )
       )}
+      
+        <WalletDisplay custId={customer?.custId} />
     </div>
   );
 };

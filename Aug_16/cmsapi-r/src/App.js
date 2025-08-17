@@ -14,7 +14,7 @@ function App() {
         <Routes>
           <Route path="/add" element={<AddCustomer />} />
           <Route path="/" element={<CustomerAuth />} />
-          <Route path="/search-by-id" element={<Searchcusbyid />} />
+          <Route path="/searchbyid" element={<Searchcusbyid />} />
           <Route path="/searchbyun" element={<Searchcusbyun />} />
           <Route path="/searchbyun/:username" element={<Searchcusbyun />} />
           <Route path="/show" element={<ShowCustomers />} />

@@ -3,20 +3,28 @@
   "WorkspaceRootPath": "D:\\Wipro_Training\\Aug_16\\CMSApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\migrations\\20250817035645_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\migrations\\20250817035645_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\controllers\\walletcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\data\\cmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\data\\cmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\models\\wallet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\migrations\\20250817035645_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\migrations\\20250817035645_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\data\\cmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\data\\cmscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -25,10 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\controllers\\customerscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|solutionrelative:cmsapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{46A0443E-4B1B-4D34-9248-9EF72F77BC20}|CMSApi\\CMSApi.csproj|d:\\wipro_training\\aug_16\\cmsapi\\cmsapi\\helpers\\encryptionhelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -54,11 +58,63 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "CMSApi\\WeatherForecast.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\WeatherForecast.cs",
+              "RelativeToolTip": "CMSApi\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-17T10:30:04.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "WalletController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Controllers\\WalletController.cs",
+              "RelativeDocumentMoniker": "CMSApi\\Controllers\\WalletController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Controllers\\WalletController.cs",
+              "RelativeToolTip": "CMSApi\\Controllers\\WalletController.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T17:31:36.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Program.cs",
+              "RelativeDocumentMoniker": "CMSApi\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Program.cs",
+              "RelativeToolTip": "CMSApi\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T06:19:40.254Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Wallet.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Models\\Wallet.cs",
+              "RelativeDocumentMoniker": "CMSApi\\Models\\Wallet.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Models\\Wallet.cs",
+              "RelativeToolTip": "CMSApi\\Models\\Wallet.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-16T17:00:47.719Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "20250817035645_InitialCreate.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Migrations\\20250817035645_InitialCreate.cs",
               "RelativeDocumentMoniker": "CMSApi\\Migrations\\20250817035645_InitialCreate.cs",
@@ -71,31 +127,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "WalletController.cs",
-              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Controllers\\WalletController.cs",
-              "RelativeDocumentMoniker": "CMSApi\\Controllers\\WalletController.cs",
-              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Controllers\\WalletController.cs",
-              "RelativeToolTip": "CMSApi\\Controllers\\WalletController.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAAABYAAAAmAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T17:31:36.473Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Wallet.cs",
-              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Models\\Wallet.cs",
-              "RelativeDocumentMoniker": "CMSApi\\Models\\Wallet.cs",
-              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Models\\Wallet.cs",
-              "RelativeToolTip": "CMSApi\\Models\\Wallet.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T17:00:47.719Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "Customer.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Models\\Customer.cs",
               "RelativeDocumentMoniker": "CMSApi\\Models\\Customer.cs",
@@ -107,19 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Program.cs",
-              "RelativeDocumentMoniker": "CMSApi\\Program.cs",
-              "ToolTip": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Program.cs",
-              "RelativeToolTip": "CMSApi\\Program.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABEAAAAeAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-16T06:19:40.254Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "CustomersController.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Controllers\\CustomersController.cs",
               "RelativeDocumentMoniker": "CMSApi\\Controllers\\CustomersController.cs",
@@ -131,7 +151,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "appsettings.json",
               "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\appsettings.json",
               "RelativeDocumentMoniker": "CMSApi\\appsettings.json",
@@ -143,7 +163,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "CmsContext.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Data\\CmsContext.cs",
               "RelativeDocumentMoniker": "CMSApi\\Data\\CmsContext.cs",
@@ -155,7 +175,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "EncryptionHelper.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Helpers\\EncryptionHelper.cs",
               "RelativeDocumentMoniker": "CMSApi\\Helpers\\EncryptionHelper.cs",
@@ -167,7 +187,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\Helpers\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "CMSApi\\Helpers\\PasswordHasher.cs",
@@ -179,7 +199,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "CMSApi.http",
               "DocumentMoniker": "D:\\Wipro_Training\\Aug_16\\CMSApi\\CMSApi\\CMSApi.http",
               "RelativeDocumentMoniker": "CMSApi\\CMSApi.http",

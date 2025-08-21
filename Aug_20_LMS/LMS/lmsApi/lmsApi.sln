@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36401.2 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "lmsApi", "lmsApi\lmsApi.csproj", "{E383B017-928A-4EFE-B059-621FE5D0E450}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E383B017-928A-4EFE-B059-621FE5D0E450}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E383B017-928A-4EFE-B059-621FE5D0E450}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E383B017-928A-4EFE-B059-621FE5D0E450}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E383B017-928A-4EFE-B059-621FE5D0E450}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {FA82FF9D-7C17-484F-8C19-3E03C226BF2B}
+	EndGlobalSection
+EndGlobal

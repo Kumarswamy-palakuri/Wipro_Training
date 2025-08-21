@@ -1,0 +1,55 @@
+/* General body style */
+body {
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+  background: #f8f9fa;
+}
+
+/* Mobile preview mock in index.html */
+.mobile-frame {
+  width: 320px;
+  height: 560px;
+  border: 1px solid #ddd;
+  border-radius: 18px;
+  overflow: hidden;
+  background: white;
+  box-shadow: 0 6px 18px rgba(0,0,0,0.08);
+}
+
+.mobile-header {
+  background: #0d6efd;
+  color: white;
+  padding: 10px;
+  text-align: center;
+  font-weight: 600;
+}
+
+/* Timetable flex container */
+.timetable {
+  display: flex;
+  flex-direction: row;
+  gap: 1rem;
+  justify-content: flex-start;
+}
+
+/* Each day card */
+.day {
+  flex: 1 1 220px;
+  min-width: 220px;
+}
+
+.slot {
+  padding: 6px 0;
+  border-bottom: 1px dashed #eee;
+  font-size: 0.95rem;
+}
+
+/* Responsive tweaks for small screens */
+@media (max-width: 576px) {
+  .timetable {
+    flex-direction: column;
+  }
+  .mobile-frame {
+    width: 260px;
+    height: 520px;
+  }
+}

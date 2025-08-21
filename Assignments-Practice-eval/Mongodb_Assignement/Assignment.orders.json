@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6892311593606466e5532b03"
+  },
+  "userId": {
+    "$oid": "64d520f07f1ab45a12345678"
+  },
+  "orderDate": {
+    "$date": "2025-08-03T14:25:00.000Z"
+  },
+  "items": [
+    {
+      "productId": {
+        "$oid": "64d51fd07f1ab45a11111111"
+      },
+      "name": "Apple iPhone 14",
+      "quantity": 1,
+      "price": 79999
+    },
+    {
+      "productId": {
+        "$oid": "64d51fd07f1ab45a22222222"
+      },
+      "name": "Nike Air Max 270",
+      "quantity": 2,
+      "price": 12000
+    }
+  ],
+  "totalAmount": 103999,
+  "paymentStatus": "Paid",
+  "shippingAddress": {
+    "street": "123 MG Road",
+    "city": "Mumbai",
+    "zip": "400001",
+    "country": "India"
+  }
+}]

@@ -1,0 +1,65 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>My TimeTable - Spring Flowers</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/styles.css">
+</head>
+<body>
+  <!-- NAVBAR -->
+  <nav class="navbar navbar-expand-lg navbar-light bg-light">
+    <div class="container">
+      <a class="navbar-brand" href="index.html">Spring Flowers</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mainNav2">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="mainNav2">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link" href="index.html">Home</a></li>
+          <li class="nav-item"><a class="nav-link btn btn-outline-primary ms-2" href="timetable.html">TimeTable</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <main class="container py-4">
+    <h2 class="mb-3">My TimeTable</h2>
+
+    <!-- Flexbox timetable -->
+    <div class="timetable d-flex flex-wrap gap-3">
+      <div class="day card p-3">
+        <h5 class="day-title">Monday</h5>
+        <div class="slot"><strong>9:00 - 10:00</strong> <br> Mathematics</div>
+        <div class="slot"><strong>10:15 - 11:15</strong> <br> Science</div>
+        <div class="slot"><strong>11:30 - 12:30</strong> <br> English</div>
+      </div>
+
+      <div class="day card p-3">
+        <h5 class="day-title">Tuesday</h5>
+        <div class="slot"><strong>9:00 - 10:00</strong> <br> Computer Science</div>
+        <div class="slot"><strong>10:15 - 11:15</strong> <br> Maths Practice</div>
+      </div>
+
+      <div class="day card p-3">
+        <h5 class="day-title">Wednesday</h5>
+        <div class="slot"><strong>9:00 - 10:00</strong> <br> History</div>
+      </div>
+
+      <div class="day card p-3">
+        <h5 class="day-title">Thursday</h5>
+        <div class="slot"><strong>9:00 - 10:00</strong> <br> Geography</div>
+      </div>
+
+      <div class="day card p-3">
+        <h5 class="day-title">Friday</h5>
+        <div class="slot"><strong>9:00 - 10:00</strong> <br> Arts</div>
+      </div>
+    </div>
+  </main>
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.2/dist/js/bootstrap.bundle.min.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>

@@ -1,0 +1,113 @@
+[{
+  "_id": {
+    "$oid": "64cabe6c8e0f55a8e1d10b5e"
+  },
+  "name": "Apple iPhone 14",
+  "category": "Electronics",
+  "brand": "Apple",
+  "price": 79999,
+  "stock": 150,
+  "specs": {
+    "color": "Black",
+    "storage": "128GB",
+    "screen_size": "6.1 inch"
+  },
+  "tags": [
+    "smartphone",
+    "ios",
+    "mobile"
+  ],
+  "createdAt": {
+    "$date": "2025-08-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689230f093606466e5532aff"
+  },
+  "name": "Apple iPhone 14",
+  "category": "Electronics",
+  "brand": "Apple",
+  "price": 79999,
+  "stock": 150,
+  "specs": {
+    "color": "Black",
+    "storage": "128GB",
+    "screen_size": "6.1 inch"
+  },
+  "tags": [
+    "smartphone",
+    "ios",
+    "mobile"
+  ],
+  "createdAt": {
+    "$date": "2025-08-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "689230f093606466e5532b00"
+  },
+  "name": "Nike Air Max 270",
+  "category": "Footwear",
+  "brand": "Nike",
+  "price": 12000,
+  "stock": 200,
+  "specs": {
+    "color": "Red",
+    "size": "9 UK"
+  },
+  "tags": [
+    "shoes",
+    "sports",
+    "men"
+  ],
+  "createdAt": {
+    "$date": "2025-07-15T09:30:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892310593606466e5532b01"
+  },
+  "name": "Apple iPhone 14",
+  "category": "Electronics",
+  "brand": "Apple",
+  "price": 79999,
+  "stock": 150,
+  "specs": {
+    "color": "Black",
+    "storage": "128GB",
+    "screen_size": "6.1 inch"
+  },
+  "tags": [
+    "smartphone",
+    "ios",
+    "mobile"
+  ],
+  "createdAt": {
+    "$date": "2025-08-01T10:00:00.000Z"
+  }
+},
+{
+  "_id": {
+    "$oid": "6892310593606466e5532b02"
+  },
+  "name": "Nike Air Max 270",
+  "category": "Footwear",
+  "brand": "Nike",
+  "price": 12000,
+  "stock": 200,
+  "specs": {
+    "color": "Red",
+    "size": "9 UK"
+  },
+  "tags": [
+    "shoes",
+    "sports",
+    "men"
+  ],
+  "createdAt": {
+    "$date": "2025-07-15T09:30:00.000Z"
+  }
+}]

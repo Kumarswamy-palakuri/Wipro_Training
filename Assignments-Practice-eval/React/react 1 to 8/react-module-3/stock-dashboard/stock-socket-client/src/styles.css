@@ -1,0 +1,38 @@
+:root {
+  --bg: #0b1320;
+  --card: #121a2b;
+  --text: #e6eefc;
+  --accent: #3aa0ff;
+}
+
+.light {
+  --bg: #f6f8fb;
+  --card: #ffffff;
+  --text: #0a0a0a;
+  --accent: #0d6efd;
+}
+
+body {
+  background: var(--bg);
+  color: var(--text);
+}
+
+.card {
+  background: var(--card);
+  border: 1px solid rgba(255,255,255,0.06);
+}
+
+.form-control, .form-select {
+  background: var(--card);
+  color: var(--text);
+  border-color: rgba(255,255,255,0.1);
+}
+
+.btn-accent {
+  background: var(--accent);
+  color: white;
+  border: none;
+}
+
+.price-up { color: #28a745; }
+.price-down { color: #dc3545; }

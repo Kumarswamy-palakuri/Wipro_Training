@@ -1,19 +1,19 @@
 {
-  "name": "project",
-  "version": "0.1.0",
+  "name": "stock-socket-client",
   "private": true,
   "dependencies": {
     "@testing-library/dom": "^10.4.1",
-    "@testing-library/jest-dom": "^6.7.0",
+    "@testing-library/jest-dom": "^6.8.0",
     "@testing-library/react": "^16.3.0",
     "@testing-library/user-event": "^13.5.0",
-    "axios": "^1.11.0",
     "react": "^19.1.1",
     "react-dom": "^19.1.1",
     "react-scripts": "5.0.1",
-    "socket.io-client": "^4.8.1",
-    "styled-components": "^6.1.19",
-    "web-vitals": "^2.1.4"
+    "web-vitals": "^2.1.4",
+        "bootstrap": "^5.3.3",
+    "chart.js": "^4.4.3",
+    "react-chartjs-2": "^5.2.0",
+    "socket.io-client": "^4.7.5"
   },
   "scripts": {
     "start": "react-scripts start",

@@ -1,0 +1,103 @@
+﻿@model SecureShoppingApp.ViewModels.DashboardViewModel
+@{
+    ViewData["Title"] = "Admin Dashboard";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div class="row mb-4">
+    <div class="col-md-3">
+        <div class="card text-white bg-primary">
+            <div class="card-body">
+                <h5 class="card-title">Total Users</h5>
+                <h2>@(Model?.TotalUsers ?? ViewBag.TotalUsers ?? 0)</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card text-white bg-success">
+            <div class="card-body">
+                <h5 class="card-title">Total Products</h5>
+                <h2>@(Model?.TotalProducts ?? ViewBag.TotalProducts ?? 0)</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card text-white bg-info">
+            <div class="card-body">
+                <h5 class="card-title">Total Orders</h5>
+                <h2>@(Model?.TotalOrders ?? ViewBag.TotalOrders ?? 0)</h2>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-3">
+        <div class="card text-white bg-warning">
+            <div class="card-body">
+                <h5 class="card-title">Revenue</h5>
+                <h2>$@((Model?.TotalRevenue ?? 0).ToString("F2"))</h2>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5>Quick Actions</h5>
+            </div>
+            <div class="card-body">
+                <div class="d-grid gap-2">
+                    <a asp-action="Users" class="btn btn-outline-primary">Manage Users</a>
+                    <a asp-action="Orders" class="btn btn-outline-info">View Orders</a>
+                    <a asp-action="Products" class="btn btn-outline-success">Manage Products</a>
+                    <a asp-controller="Product" asp-action="Create" class="btn btn-outline-secondary">Add Product</a>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5>Recent Orders</h5>
+            </div>
+            <div class="card-body">
+                @if (Model?.RecentOrders?.Any() == true)
+                {
+                    <div class="table-responsive">
+                        <table class="table table-sm">
+                            <thead>
+                                <tr>
+                                    <th>Order</th>
+                                    <th>Customer</th>
+                                    <th>Product</th>
+                                    <th>Amount</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var order in Model.RecentOrders.Take(5))
+                                {
+                                    <tr>
+                                        <td>#@order.OrderId</td>
+                                        <td>@Html.Encode(order.UserName)</td>
+                                        <td>@Html.Encode(order.ProductName)</td>
+                                        <td>$@order.Amount.ToString("F2")</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                    <a asp-action="Orders" class="btn btn-sm btn-primary">View All Orders</a>
+                }
+                else
+                {
+                    <p class="text-muted">No recent orders</p>
+                }
+            </div>
+        </div>
+    </div>
+</div>

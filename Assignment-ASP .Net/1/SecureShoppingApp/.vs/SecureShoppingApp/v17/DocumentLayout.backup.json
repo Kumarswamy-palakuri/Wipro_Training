@@ -1,0 +1,938 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\viewmodels\\productviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\product\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\product\\myorders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\admin\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\admin\\orderdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\admin\\orders.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\admin\\products.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\viewmodels\\dashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\admin\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\admin\\userdetails.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\admin\\users.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\viewmodels\\edituserviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\viewmodels\\userdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\viewmodels\\userdetailsviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\viewmodels\\orderviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822191024_InitialSqlser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SecureShoppingApp\\Data\\Migrations\\20250822191024_InitialSqlser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822190526_InitialSql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SecureShoppingApp\\Data\\Migrations\\20250822190526_InitialSql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822190352_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SecureShoppingApp\\Data\\Migrations\\20250822190352_Initial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822190120_FixDecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SecureShoppingApp\\Data\\Migrations\\20250822190120_FixDecimal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822185703_FixDecimalAndSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:SecureShoppingApp\\Data\\Migrations\\20250822185703_FixDecimalAndSeed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\data\\migrations\\20250822185141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\data\\migrations\\20250822185141_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\profile\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\profile\\changepassword.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\views\\profile\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\controllers\\profilecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\services\\orderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\services\\iorderservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\viewmodels\\userprofileviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|d:\\wipro_training\\assignment-asp .net\\1\\secureshoppingapp\\secureshoppingapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{FFE41AD0-6E0B-4F38-9B5C-5014DF32A29D}|SecureShoppingApp\\SecureShoppingApp.csproj|solutionrelative:secureshoppingapp\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\ProductViewModel.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\ViewModels\\ProductViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\ProductViewModel.cs",
+              "RelativeToolTip": "SecureShoppingApp\\ViewModels\\ProductViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:08:40.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Product\\Details.cshtml*",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Product\\Details.cshtml*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAkwDsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T18:25:35.82Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Home\\Index.cshtml*",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Home\\Index.cshtml*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAkwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T18:20:26.252Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwEYAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:03:40.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAkwCoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T18:26:39.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "MyOrders.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Product\\MyOrders.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Product\\MyOrders.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Product\\MyOrders.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Product\\MyOrders.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwCsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T18:25:53.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAABcAAAAAAAAAAAAkwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:58:55.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Program.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Program.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:32:14.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "OrderDetails.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\OrderDetails.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Admin\\OrderDetails.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\OrderDetails.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Admin\\OrderDetails.cshtml",
+              "ViewState": "AgIAADsAAAAAAAAAAAAkwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:55:03.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Orders.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\Orders.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Admin\\Orders.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\Orders.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Admin\\Orders.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwDQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:43:10.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Products.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\Products.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Admin\\Products.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\Products.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Admin\\Products.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAkwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:53:46.706Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DashboardViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\ViewModels\\DashboardViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\DashboardViewModel.cs",
+              "RelativeToolTip": "SecureShoppingApp\\ViewModels\\DashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:08:08.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAHUBAAAAAAAAAAAkwJ4BAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:02:54.276Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAkwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T18:26:56.656Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABYAAAAAAAAAAAAkwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T18:26:22.693Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:38:37.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:36:18.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "UserDetails.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\UserDetails.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Admin\\UserDetails.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\UserDetails.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Admin\\UserDetails.cshtml",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:35:53.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EditUserViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\EditUserViewModel.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\ViewModels\\EditUserViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\EditUserViewModel.cs",
+              "RelativeToolTip": "SecureShoppingApp\\ViewModels\\EditUserViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:34:46.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Users.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\Users.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Admin\\Users.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Admin\\Users.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Admin\\Users.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAkwDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:23:26.703Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UserDetailsViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\UserDetailsViewModel.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\ViewModels\\UserDetailsViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\UserDetailsViewModel.cs",
+              "RelativeToolTip": "SecureShoppingApp\\ViewModels\\UserDetailsViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:33:43.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "OrderViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\OrderViewModel.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\ViewModels\\OrderViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\OrderViewModel.cs",
+              "RelativeToolTip": "SecureShoppingApp\\ViewModels\\OrderViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:08:29.954Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\ViewModels\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\RegisterViewModel.cs",
+              "RelativeToolTip": "SecureShoppingApp\\ViewModels\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAUwCAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:08:50.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAABEAAAAAAAAAAADwvysAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T18:24:32.349Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:17:51.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAADwvy4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T18:23:35.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:15:43.96Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAADwv1IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T19:16:36.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20250822191024_InitialSqlser.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822191024_InitialSqlser.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Data\\Migrations\\20250822191024_InitialSqlser.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822191024_InitialSqlser.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Data\\Migrations\\20250822191024_InitialSqlser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:10:24.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\appsettings.json",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\appsettings.json",
+              "RelativeToolTip": "SecureShoppingApp\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-22T18:37:39.836Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAUwEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:37:17.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20250822190526_InitialSql.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822190526_InitialSql.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Data\\Migrations\\20250822190526_InitialSql.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822190526_InitialSql.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Data\\Migrations\\20250822190526_InitialSql.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:05:27.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20250822190352_Initial.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822190352_Initial.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Data\\Migrations\\20250822190352_Initial.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822190352_Initial.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Data\\Migrations\\20250822190352_Initial.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:03:52.781Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20250822190120_FixDecimal.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822190120_FixDecimal.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Data\\Migrations\\20250822190120_FixDecimal.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822190120_FixDecimal.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Data\\Migrations\\20250822190120_FixDecimal.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T19:01:20.989Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Models\\Product.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Models\\Product.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:05:10.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Services\\ProductService.cs",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAUwFQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:06:39.279Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250822185703_FixDecimalAndSeed.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822185703_FixDecimalAndSeed.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Data\\Migrations\\20250822185703_FixDecimalAndSeed.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822185703_FixDecimalAndSeed.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Data\\Migrations\\20250822185703_FixDecimalAndSeed.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:57:03.903Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20250822185141_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822185141_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Data\\Migrations\\20250822185141_InitialCreate.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Data\\Migrations\\20250822185141_InitialCreate.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Data\\Migrations\\20250822185141_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:51:42.573Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "SecureShoppingApp\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:08:20.015Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAzwEkAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:02:36.389Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:04:44.796Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:33:16.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Models\\Order.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Models\\Order.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:04:58.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "ChangePasswordViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\ViewModels\\ChangePasswordViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\ChangePasswordViewModel.cs",
+              "RelativeToolTip": "SecureShoppingApp\\ViewModels\\ChangePasswordViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:07:57.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Profile\\Index.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Profile\\Index.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Profile\\Index.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Profile\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T18:27:14.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ChangePassword.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Profile\\ChangePassword.cshtml",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Views\\Profile\\ChangePassword.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Views\\Profile\\ChangePassword.cshtml",
+              "RelativeToolTip": "SecureShoppingApp\\Views\\Profile\\ChangePassword.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-22T18:27:34.083Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "ProfileController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Controllers\\ProfileController.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Controllers\\ProfileController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Controllers\\ProfileController.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Controllers\\ProfileController.cs",
+              "ViewState": "AgIAAFIAAAAAAAAAAAAxwHgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:03:52.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Services\\UserService.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\UserService.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:06:50.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "OrderService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\OrderService.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Services\\OrderService.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\OrderService.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Services\\OrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:06:24.872Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\IUserService.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:06:13.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\IProductService.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:05:58.981Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "IOrderService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\IOrderService.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\Services\\IOrderService.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\Services\\IOrderService.cs",
+              "RelativeToolTip": "SecureShoppingApp\\Services\\IOrderService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:05:47.907Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "UserProfileViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\ViewModels\\UserProfileViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\ViewModels\\UserProfileViewModel.cs",
+              "RelativeToolTip": "SecureShoppingApp\\ViewModels\\UserProfileViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-22T18:09:00.203Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "site.css",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "SecureShoppingApp\\wwwroot\\css\\site.css",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\1\\SecureShoppingApp\\SecureShoppingApp\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "SecureShoppingApp\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAADAAAAAAAAAAAADwv30AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-22T18:10:36.377Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

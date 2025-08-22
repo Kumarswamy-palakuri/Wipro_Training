@@ -1,0 +1,100 @@
+﻿@model SecureShoppingApp.Models.Order
+@{
+    ViewData["Title"] = "Order Details";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1>@ViewData["Title"] - Order #@Model.Id</h1>
+    <div>
+        <a asp-action="Orders" class="btn btn-secondary">Back to Orders</a>
+        <a asp-action="Dashboard" class="btn btn-outline-secondary">Dashboard</a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5>Order Information</h5>
+            </div>
+            <div class="card-body">
+                <table class="table table-borderless">
+                    <tr>
+                        <td><strong>Order ID:</strong></td>
+                        <td>#@Model.Id</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Order Date:</strong></td>
+                        <td>@Model.OrderDate.ToString("MMMM dd, yyyy 'at' HH:mm")</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Quantity:</strong></td>
+                        <td>@Model.Quantity</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Total Amount:</strong></td>
+                        <td><strong class="text-success">$@Model.TotalAmount.ToString("F2")</strong></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5>Customer Information</h5>
+            </div>
+            <div class="card-body">
+                <table class="table table-borderless">
+                    <tr>
+                        <td><strong>Name:</strong></td>
+                        <td>@Html.Encode($"{Model.User.FirstName} {Model.User.LastName}")</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Email:</strong></td>
+                        <td>@Html.Encode(Model.User.Email)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Customer Since:</strong></td>
+                        <td>@Model.User.CreatedAt.ToString("MMMM dd, yyyy")</td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>
+
+<div class="row mt-4">
+    <div class="col-12">
+        <div class="card">
+            <div class="card-header">
+                <h5>Product Information</h5>
+            </div>
+            <div class="card-body">
+                <table class="table table-borderless">
+                    <tr>
+                        <td><strong>Product Name:</strong></td>
+                        <td>@Html.Encode(Model.Product.Name)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Description:</strong></td>
+                        <td>@Html.Encode(Model.Product.Description)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Unit Price:</strong></td>
+                        <td>$@Model.Product.Price.ToString("F2")</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Quantity Ordered:</strong></td>
+                        <td>@Model.Quantity</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Total:</strong></td>
+                        <td><strong>$@Model.TotalAmount.ToString("F2")</strong></td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+</div>

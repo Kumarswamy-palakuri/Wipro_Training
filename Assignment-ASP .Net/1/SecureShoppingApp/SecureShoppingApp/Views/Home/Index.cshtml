@@ -1,0 +1,44 @@
+﻿@model IEnumerable<SecureShoppingApp.Models.Product>
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="row">
+    <div class="col-12">
+        <h1>Our Products</h1>
+    </div>
+</div>
+
+<div class="row">
+    @if (Model != null && Model.Any())
+    {
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">@Html.Encode(product.Name)</h5>
+                        <p class="card-text">@Html.Encode(product.Description)</p>
+                        <p class="card-text">
+                            <strong class="text-success">$@product.Price.ToString("F2")</strong>
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <!-- THIS IS THE FIX: Add asp-route-id -->
+                        <a asp-controller="Product" asp-action="Details" asp-route-id="@product.Id"
+                           class="btn btn-primary">View Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <div class="col-12">
+            <div class="alert alert-info">
+                <h4>No products available</h4>
+                <p>There are currently no products in our catalog.</p>
+            </div>
+        </div>
+    }
+</div>

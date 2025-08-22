@@ -1,0 +1,76 @@
+﻿@model SecureShoppingApp.ViewModels.EditUserViewModel
+@{
+    ViewData["Title"] = "Edit User";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1>@ViewData["Title"]</h1>
+    <a asp-action="Users" class="btn btn-secondary">Back to Users</a>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <form asp-action="EditUser" method="post">
+                    <input asp-for="Id" type="hidden" />
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="FirstName" class="control-label"></label>
+                        <input asp-for="FirstName" class="form-control" />
+                        <span asp-validation-for="FirstName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="LastName" class="control-label"></label>
+                        <input asp-for="LastName" class="form-control" />
+                        <span asp-validation-for="LastName" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Email" class="control-label"></label>
+                        <input asp-for="Email" class="form-control" />
+                        <span asp-validation-for="Email" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-check mb-3">
+                        <input asp-for="IsAdmin" class="form-check-input" />
+                        <label asp-for="IsAdmin" class="form-check-label">
+                            Administrator privileges
+                        </label>
+                        <div class="form-text">Check this box to grant admin access to this user.</div>
+                    </div>
+
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Update User</button>
+                        <a asp-action="UserDetails" asp-route-id="@Model.Id" class="btn btn-outline-secondary">View Details</a>
+                        <a asp-action="Users" class="btn btn-secondary">Cancel</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h6>User Management Tips</h6>
+            </div>
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    <li><i class="text-primary">•</i> Changes to email will also update the username</li>
+                    <li><i class="text-warning">•</i> Admin users can access the admin dashboard</li>
+                    <li><i class="text-info">•</i> Regular users can only view and purchase products</li>
+                    <li><i class="text-success">•</i> All changes are logged for security</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>
+
+@section Scripts {
+    @{
+        await Html.RenderPartialAsync("_ValidationScriptsPartial");
+    }
+}

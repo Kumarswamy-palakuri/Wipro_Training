@@ -1,0 +1,64 @@
+﻿@model IEnumerable<SecureShoppingApp.Models.Product>
+@{
+    ViewData["Title"] = "Products";
+}
+
+<div class="row">
+    <div class="col-12">
+        <div class="d-flex justify-content-between align-items-center mb-4">
+            <h1>Our Products</h1>
+            @if (User.IsInRole("Admin"))
+            {
+                <a asp-controller="Product" asp-action="Create" class="btn btn-primary">Add New Product</a>
+            }
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    @if (Model != null && Model.Any())
+    {
+        @foreach (var product in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card h-100">
+                    <div class="card-body">
+                        <h5 class="card-title">@Html.Encode(product.Name)</h5>
+                        <p class="card-text">@Html.Encode(product.Description)</p>
+                        <p class="card-text">
+                            <strong class="text-success">$@product.Price.ToString("F2")</strong>
+                        </p>
+                    </div>
+                    <div class="card-footer">
+                        <div class="btn-group w-100" role="group">
+                            <a asp-controller="Product" asp-action="Details" asp-route-id="@product.Id"
+                               class="btn btn-primary">View Details</a>
+                            @if (User.IsInRole("Admin"))
+                            {
+                                <a asp-controller="Product" asp-action="Edit" asp-route-id="@product.Id"
+                                   class="btn btn-outline-secondary">Edit</a>
+                                <form asp-controller="Product" asp-action="Delete" asp-route-id="@product.Id"
+                                      method="post" class="d-inline" onsubmit="return confirm('Are you sure you want to delete this product?')">
+                                    <button type="submit" class="btn btn-outline-danger">Delete</button>
+                                </form>
+                            }
+                        </div>
+                    </div>
+                </div>
+            </div>
+        }
+    }
+    else
+    {
+        <div class="col-12">
+            <div class="alert alert-info">
+                <h4>No products available</h4>
+                <p>There are currently no products in our catalog.</p>
+                @if (User.IsInRole("Admin"))
+                {
+                    <a asp-controller="Product" asp-action="Create" class="btn btn-primary">Add the first product</a>
+                }
+            </div>
+        </div>
+    }
+</div>

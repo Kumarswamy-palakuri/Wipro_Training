@@ -1,0 +1,63 @@
+﻿@model SecureShoppingApp.ViewModels.ProductViewModel
+@{
+    ViewData["Title"] = "Add New Product";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1>@ViewData["Title"]</h1>
+    <a asp-controller="Admin" asp-action="Dashboard" class="btn btn-secondary">Back to Dashboard</a>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-body">
+                <form asp-action="Create" method="post">
+                    <div asp-validation-summary="ModelOnly" class="text-danger mb-3"></div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Name" class="control-label"></label>
+                        <input asp-for="Name" class="form-control" />
+                        <span asp-validation-for="Name" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Description" class="control-label"></label>
+                        <textarea asp-for="Description" class="form-control" rows="4"></textarea>
+                        <span asp-validation-for="Description" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group mb-3">
+                        <label asp-for="Price" class="control-label"></label>
+                        <div class="input-group">
+                            <span class="input-group-text">$</span>
+                            <input asp-for="Price" class="form-control" type="number" step="0.01" />
+                        </div>
+                        <span asp-validation-for="Price" class="text-danger"></span>
+                    </div>
+
+                    <div class="form-group">
+                        <button type="submit" class="btn btn-primary">Create Product</button>
+                        <a asp-controller="Admin" asp-action="Dashboard" class="btn btn-secondary">Cancel</a>
+                    </div>
+                </form>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h6>Product Guidelines</h6>
+            </div>
+            <div class="card-body">
+                <ul class="list-unstyled">
+                    <li><i class="text-primary">•</i> Use clear, descriptive product names</li>
+                    <li><i class="text-info">•</i> Write detailed descriptions to help customers</li>
+                    <li><i class="text-success">•</i> Set competitive, realistic prices</li>
+                    <li><i class="text-warning">•</i> All fields are required</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+</div>

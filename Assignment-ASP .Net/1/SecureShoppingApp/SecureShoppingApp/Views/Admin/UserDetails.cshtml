@@ -1,0 +1,115 @@
+﻿@model SecureShoppingApp.ViewModels.UserDetailsViewModel
+@{
+    ViewData["Title"] = "User Details";
+}
+
+<div class="d-flex justify-content-between align-items-center mb-4">
+    <h1>@ViewData["Title"]</h1>
+    <div>
+        <a asp-action="EditUser" asp-route-id="@Model.User.Id" class="btn btn-primary">Edit User</a>
+        <a asp-action="Users" class="btn btn-secondary">Back to Users</a>
+    </div>
+</div>
+
+<div class="row">
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5>User Information</h5>
+            </div>
+            <div class="card-body">
+                <table class="table table-borderless">
+                    <tr>
+                        <td><strong>Full Name:</strong></td>
+                        <td>@Html.Encode($"{Model.User.FirstName} {Model.User.LastName}")</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Email:</strong></td>
+                        <td>@Html.Encode(Model.User.Email)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Username:</strong></td>
+                        <td>@Html.Encode(Model.User.UserName)</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Registration Date:</strong></td>
+                        <td>@Model.User.CreatedAt.ToString("MMMM dd, yyyy 'at' HH:mm")</td>
+                    </tr>
+                    <tr>
+                        <td><strong>Email Confirmed:</strong></td>
+                        <td>
+                            @if (Model.User.EmailConfirmed)
+                            {
+                                <span class="badge bg-success">Confirmed</span>
+                            }
+                            else
+                            {
+                                <span class="badge bg-warning">Not Confirmed</span>
+                            }
+                        </td>
+                    </tr>
+                    <tr>
+                        <td><strong>Roles:</strong></td>
+                        <td>
+                            @if (Model.Roles.Any())
+                            {
+                                @foreach (var role in Model.Roles)
+                                {
+                                    <span class="badge bg-primary me-1">@role</span>
+                                }
+                            }
+                            else
+                            {
+                                <span class="text-muted">No roles assigned</span>
+                            }
+                        </td>
+                    </tr>
+                </table>
+            </div>
+        </div>
+    </div>
+
+    <div class="col-md-6">
+        <div class="card">
+            <div class="card-header">
+                <h5>Order History</h5>
+            </div>
+            <div class="card-body">
+                @if (Model.Orders.Any())
+                {
+                    <div class="table-responsive">
+                        <table class="table table-sm">
+                            <thead>
+                                <tr>
+                                    <th>Order #</th>
+                                    <th>Product</th>
+                                    <th>Amount</th>
+                                    <th>Date</th>
+                                </tr>
+                            </thead>
+                            <tbody>
+                                @foreach (var order in Model.Orders.Take(10))
+                                {
+                                    <tr>
+                                        <td>#@order.Id</td>
+                                        <td>@Html.Encode(order.Product.Name)</td>
+                                        <td>$@order.TotalAmount.ToString("F2")</td>
+                                        <td>@order.OrderDate.ToString("MMM dd")</td>
+                                    </tr>
+                                }
+                            </tbody>
+                        </table>
+                    </div>
+                    @if (Model.Orders.Count > 10)
+                    {
+                        <p class="text-muted">Showing latest 10 orders of @Model.Orders.Count total.</p>
+                    }
+                }
+                else
+                {
+                    <p class="text-muted">No orders found for this user.</p>
+                }
+            </div>
+        </div>
+    </div>
+</div>

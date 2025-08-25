@@ -1,0 +1,325 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\services\\ijwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\jwt assignment ex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\jwt assignment ex.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\jwt assignment ex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\jwt assignment ex.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\services\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\services\\jwtservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\models\\userrole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\models\\role.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\models\\registerrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\migrations\\20250824093050_initialcrea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\migrations\\20250824093050_initialcrea.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\migrations\\20250824092616_initialcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\migrations\\20250824092616_initialcreat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-3\\jwt assignment ex\\jwt assignment ex\\migrations\\20250824092407_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5CFD59A1-E150-4B01-B43F-270765BFC1A0}|jwt Assignment ex\\jwt Assignment ex.csproj|solutionrelative:jwt assignment ex\\migrations\\20250824092407_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250824093050_InitialCrea.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Migrations\\20250824093050_InitialCrea.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Migrations\\20250824093050_InitialCrea.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Migrations\\20250824093050_InitialCrea.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Migrations\\20250824093050_InitialCrea.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:30:50.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20250824092616_InitialCreat.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Migrations\\20250824092616_InitialCreat.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Migrations\\20250824092616_InitialCreat.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Migrations\\20250824092616_InitialCreat.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Migrations\\20250824092616_InitialCreat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:26:16.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250824092407_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Migrations\\20250824092407_InitialCreate.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Migrations\\20250824092407_InitialCreate.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Migrations\\20250824092407_InitialCreate.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Migrations\\20250824092407_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T09:24:07.895Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IJwtService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Services\\IJwtService.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Services\\IJwtService.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Services\\IJwtService.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Services\\IJwtService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:33:17.196Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\appsettings.json",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\appsettings.json",
+              "RelativeToolTip": "jwt Assignment ex\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T17:06:44.062Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Services\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Services\\PasswordHasher.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Services\\PasswordHasher.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Services\\PasswordHasher.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAQwB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:34:17.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:32:07.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Controllers\\UserController.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:32:25.009Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "JwtService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Services\\JwtService.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Services\\JwtService.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Services\\JwtService.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Services\\JwtService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:33:43.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\appsettings.Development.json",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\appsettings.Development.json",
+              "RelativeToolTip": "jwt Assignment ex\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T17:17:23.46Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Program.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Program.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:45:01.539Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "jwt Assignment ex.csproj",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\jwt Assignment ex.csproj",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\jwt Assignment ex.csproj",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\jwt Assignment ex.csproj",
+              "RelativeToolTip": "jwt Assignment ex\\jwt Assignment ex.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-23T07:32:30.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "jwt Assignment ex.http",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\jwt Assignment ex.http",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\jwt Assignment ex.http",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\jwt Assignment ex.http",
+              "RelativeToolTip": "jwt Assignment ex\\jwt Assignment ex.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-08-23T17:06:42.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAmwBMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:38:30.501Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserRole.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Models\\UserRole.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Models\\UserRole.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Models\\UserRole.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Models\\UserRole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:27:19.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Models\\User.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Models\\User.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Models\\User.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAmwA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:25:53.678Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Role.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Models\\Role.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Models\\Role.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Models\\Role.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Models\\Role.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:26:46.749Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "RegisterRequest.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Models\\RegisterRequest.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Models\\RegisterRequest.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Models\\RegisterRequest.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Models\\RegisterRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:29:51.358Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "jwt Assignment ex\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-3\\jwt Assignment ex\\jwt Assignment ex\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "jwt Assignment ex\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T07:29:35.17Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

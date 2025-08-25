@@ -1,0 +1,49 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="row">
+    <div class="col-md-12">
+        <h1>Welcome to your Dashboard!</h1>
+        <p class="lead">You are successfully logged in as: <strong>@User.Identity!.Name</strong></p>
+
+        @if (User.IsInRole("Admin"))
+        {
+            <div class="alert alert-info">
+                <h4>Admin Access</h4>
+                <p>You have administrative privileges.</p>
+                <a asp-controller="Admin" asp-action="ManageTasks" class="btn btn-primary">Manage All Tasks</a>
+            </div>
+        }
+
+        <div class="row mt-4">
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h5>Your Tasks</h5>
+                    </div>
+                    <div class="card-body">
+                        <p>Manage your personal tasks and track progress.</p>
+                        <a asp-controller="User" asp-action="TaskList" class="btn btn-success">View My Tasks</a>
+                        <a asp-controller="User" asp-action="Create" class="btn btn-outline-success">Add New Task</a>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="card">
+                    <div class="card-header">
+                        <h5>Account</h5>
+                    </div>
+                    <div class="card-body">
+                        <p>Manage your account settings and security.</p>
+                        <form asp-controller="Account" asp-action="Logout" method="post">
+                            @Html.AntiForgeryToken()
+                            <button type="submit" class="btn btn-outline-danger">Logout</button>
+                        </form>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>

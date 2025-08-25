@@ -1,0 +1,391 @@
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\appsettings.Development.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\appsettings.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.staticwebassets.endpoints.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.exe
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.deps.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.runtimeconfig.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.pdb
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Azure.Core.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Azure.Identity.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\FluentValidation.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Humanizer.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.ClientModel.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.CodeDom.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Text.Json.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.csproj.AssemblyReference.cache
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.AssemblyInfoInputs.cache
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.AssemblyInfo.cs
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.csproj.CoreCompileInputs.cache
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.MvcApplicationPartsAssemblyInfo.cs
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.MvcApplicationPartsAssemblyInfo.cache
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\scopedcss\bundle\ASP_project_4_Secure_App.styles.css
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\staticwebassets.build.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\staticwebassets.development.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_proj.DAD3FA88.Up2Date
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\refint\ASP_project_4_Secure_App.dll
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.pdb
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.genruntimeconfig.cache
+D:\Assignments_Asp_dotnet\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ref\ASP_project_4_Secure_App.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\appsettings.Development.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\appsettings.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.staticwebassets.endpoints.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.exe
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.deps.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.runtimeconfig.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ASP_project_4_Secure_App.pdb
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Azure.Core.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Azure.Identity.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\FluentValidation.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\FluentValidation.AspNetCore.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Humanizer.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.AspNetCore.DataProtection.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Bcl.Cryptography.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Binder.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Diagnostics.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Hosting.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.AspNetCore.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Extensions.Hosting.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Extensions.Logging.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Formatting.Compact.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Settings.Configuration.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Sinks.Console.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Sinks.Debug.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Serilog.Sinks.File.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.ClientModel.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.CodeDom.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Security.Cryptography.Xml.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Text.Json.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net8.0\System.Security.Cryptography.Pkcs.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.csproj.AssemblyReference.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.AssemblyInfoInputs.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.AssemblyInfo.cs
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.MvcApplicationPartsAssemblyInfo.cs
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.MvcApplicationPartsAssemblyInfo.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.sourcelink.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\scopedcss\bundle\ASP_project_4_Secure_App.styles.css
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\staticwebassets.build.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\staticwebassets.development.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_proj.DAD3FA88.Up2Date
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\refint\ASP_project_4_Secure_App.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.pdb
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ASP_project_4_Secure_App.genruntimeconfig.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-4\ASP_project_4_Secure_App\ASP_project_4_Secure_App\obj\Debug\net8.0\ref\ASP_project_4_Secure_App.dll

@@ -1,0 +1,6 @@
+@ASP_project_4_Secure_App_HostAddress = http://localhost:5183
+
+GET {{ASP_project_4_Secure_App_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

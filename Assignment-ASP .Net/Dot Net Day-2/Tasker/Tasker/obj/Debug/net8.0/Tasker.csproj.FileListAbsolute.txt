@@ -1,0 +1,353 @@
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\appsettings.Development.json
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\appsettings.json
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Tasker.staticwebassets.runtime.json
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Tasker.staticwebassets.endpoints.json
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Tasker.exe
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Tasker.deps.json
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Tasker.runtimeconfig.json
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Tasker.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Tasker.pdb
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Azure.Core.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Azure.Identity.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Humanizer.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\Mono.TextTemplating.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.ClientModel.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.CodeDom.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Composition.Convention.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Composition.Hosting.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Composition.Runtime.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Composition.TypedParts.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Drawing.Common.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Formats.Asn1.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.IO.Pipelines.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Memory.Data.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Runtime.Caching.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Security.Permissions.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Text.Json.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\System.Windows.Extensions.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.csproj.AssemblyReference.cache
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\rpswa.dswa.cache.json
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.GeneratedMSBuildEditorConfig.editorconfig
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.AssemblyInfoInputs.cache
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.AssemblyInfo.cs
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.csproj.CoreCompileInputs.cache
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.MvcApplicationPartsAssemblyInfo.cache
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.RazorAssemblyInfo.cache
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.RazorAssemblyInfo.cs
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\rjimswa.dswa.cache.json
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\scopedcss\bundle\Tasker.styles.css
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\scopedcss\projectbundle\Tasker.bundle.scp.css
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\staticwebassets.build.json
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\staticwebassets.build.json.cache
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\staticwebassets.development.json
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.csproj.Up2Date
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\refint\Tasker.dll
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.pdb
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\Tasker.genruntimeconfig.cache
+E:\ASP.NET Core MVC\Tasker\Tasker\obj\Debug\net8.0\ref\Tasker.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\appsettings.Development.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\appsettings.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Tasker.staticwebassets.runtime.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Tasker.staticwebassets.endpoints.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Tasker.exe
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Tasker.deps.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Tasker.runtimeconfig.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Tasker.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Tasker.pdb
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Azure.Core.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Azure.Identity.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Humanizer.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Build.Locator.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Data.SqlClient.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Caching.Memory.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Identity.Core.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Identity.Stores.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Logging.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Options.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Extensions.Primitives.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Identity.Client.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.ClientModel.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.CodeDom.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Diagnostics.DiagnosticSource.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Formats.Asn1.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.IO.Pipelines.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Memory.Data.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Runtime.Caching.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Text.Encodings.Web.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Text.Json.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.csproj.AssemblyReference.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.AssemblyInfoInputs.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.AssemblyInfo.cs
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.MvcApplicationPartsAssemblyInfo.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.RazorAssemblyInfo.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.RazorAssemblyInfo.cs
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.sourcelink.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\rjimswa.dswa.cache.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\scopedcss\bundle\Tasker.styles.css
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\scopedcss\projectbundle\Tasker.bundle.scp.css
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\staticwebassets.build.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\staticwebassets.build.json.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\staticwebassets.development.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.csproj.Up2Date
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\refint\Tasker.dll
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.pdb
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\Tasker.genruntimeconfig.cache
+D:\Wipro_Training\Assignment-ASP .Net\Dot Net Day-2\Tasker\Tasker\obj\Debug\net8.0\ref\Tasker.dll

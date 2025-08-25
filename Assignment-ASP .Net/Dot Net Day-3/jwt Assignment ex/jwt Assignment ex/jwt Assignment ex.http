@@ -1,0 +1,6 @@
+@jwt_Assignment_ex_HostAddress = http://localhost:5260
+
+GET {{jwt_Assignment_ex_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

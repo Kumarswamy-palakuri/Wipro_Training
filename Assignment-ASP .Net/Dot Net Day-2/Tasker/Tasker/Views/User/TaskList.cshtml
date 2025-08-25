@@ -1,0 +1,32 @@
+﻿@model IEnumerable<Tasker.Data.TaskItem>
+@{
+    ViewData["Title"] = "My Tasks";
+}
+
+<h2>My Tasks</h2>
+
+<p><a asp-action="Create" class="btn btn-primary">New Task</a></p>
+
+<table class="table">
+    <thead>
+        <tr><th>Title</th><th>Description</th><th>Completed</th><th>Actions</th></tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            <tr>
+                <td>@Html.DisplayFor(_ => t.Title)</td>
+                <td>@Html.DisplayFor(_ => t.Description)</td> <!-- Razor encodes output by default -->
+                <td>@t.Completed</td>
+                <td>
+                    <form asp-action="ToggleComplete" method="post" class="d-inline">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="id" value="@t.Id" />
+                        <button class="btn btn-sm btn-secondary" type="submit">Toggle</button>
+                    </form>
+                    <a asp-action="Edit" asp-route-id="@t.Id" class="btn btn-sm btn-info">Edit</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

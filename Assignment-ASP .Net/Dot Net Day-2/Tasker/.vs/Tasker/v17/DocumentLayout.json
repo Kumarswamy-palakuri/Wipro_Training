@@ -1,0 +1,343 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Migrations\\20250823152158_MigrationName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Tasker\\Migrations\\20250823152158_MigrationName.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\views\\user\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\views\\user\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\views\\user\\tasklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\views\\user\\tasklist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\models\\taskeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\models\\taskeditviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\views\\admin\\managetasks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\views\\admin\\managetasks.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\models\\accountviewmodels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-2\\tasker\\tasker\\migrations\\20250823121721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD28BD44-F04F-4DF3-BC64-0C3D6D583CBE}|Tasker\\Tasker.csproj|solutionrelative:tasker\\migrations\\20250823121721_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20250823152158_MigrationName.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Migrations\\20250823152158_MigrationName.cs",
+              "RelativeDocumentMoniker": "Tasker\\Migrations\\20250823152158_MigrationName.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Migrations\\20250823152158_MigrationName.cs",
+              "RelativeToolTip": "Tasker\\Migrations\\20250823152158_MigrationName.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T15:21:59.006Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Tasker\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "Tasker\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T12:36:55.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250823121721_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Migrations\\20250823121721_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Tasker\\Migrations\\20250823121721_InitialCreate.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Migrations\\20250823121721_InitialCreate.cs",
+              "RelativeToolTip": "Tasker\\Migrations\\20250823121721_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T12:17:22.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\User\\Create.cshtml",
+              "RelativeDocumentMoniker": "Tasker\\Views\\User\\Create.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\User\\Create.cshtml",
+              "RelativeToolTip": "Tasker\\Views\\User\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T11:25:10.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Tasker\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Tasker\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAYwHMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T11:34:45.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\appsettings.json",
+              "RelativeDocumentMoniker": "Tasker\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\appsettings.json",
+              "RelativeToolTip": "Tasker\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAACsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-23T11:13:11.22Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Tasker\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Tasker\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:15:39.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Program.cs",
+              "RelativeDocumentMoniker": "Tasker\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Program.cs",
+              "RelativeToolTip": "Tasker\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAYwHIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:14:45.225Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Tasker\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Tasker\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T11:19:52.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Tasker\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "Tasker\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAkwB4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T11:18:59.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Tasker\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Tasker\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T11:18:19.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\User\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Tasker\\Views\\User\\Edit.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\User\\Edit.cshtml",
+              "RelativeToolTip": "Tasker\\Views\\User\\Edit.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAkwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T11:31:05.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "TaskList.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\User\\TaskList.cshtml",
+              "RelativeDocumentMoniker": "Tasker\\Views\\User\\TaskList.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\User\\TaskList.cshtml",
+              "RelativeToolTip": "Tasker\\Views\\User\\TaskList.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T11:24:28.772Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "TaskEditViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Models\\TaskEditViewModel.cs",
+              "RelativeDocumentMoniker": "Tasker\\Models\\TaskEditViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Models\\TaskEditViewModel.cs",
+              "RelativeToolTip": "Tasker\\Models\\TaskEditViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:23:23.338Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Tasker\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Tasker\\Controllers\\UserController.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAmwGEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:22:19.208Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "ManageTasks.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Admin\\ManageTasks.cshtml",
+              "RelativeDocumentMoniker": "Tasker\\Views\\Admin\\ManageTasks.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Views\\Admin\\ManageTasks.cshtml",
+              "RelativeToolTip": "Tasker\\Views\\Admin\\ManageTasks.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-23T11:21:50.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Tasker\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Tasker\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:20:54.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Tasker\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Tasker\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAiwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:20:10.262Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "AccountViewModels.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Models\\AccountViewModels.cs",
+              "RelativeDocumentMoniker": "Tasker\\Models\\AccountViewModels.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Models\\AccountViewModels.cs",
+              "RelativeToolTip": "Tasker\\Models\\AccountViewModels.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:17:27.965Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Tasker\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-2\\Tasker\\Tasker\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Tasker\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-23T11:10:25.639Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

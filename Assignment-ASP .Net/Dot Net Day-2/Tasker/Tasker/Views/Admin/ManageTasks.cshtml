@@ -1,0 +1,31 @@
+﻿@model IEnumerable<Tasker.Data.TaskItem>
+@{
+    ViewData["Title"] = "Manage Tasks";
+}
+
+<h2>Manage Tasks (Admin)</h2>
+
+<table class="table">
+    <thead>
+        <tr><th>Id</th><th>Title</th><th>Description</th><th>Owner</th><th>Completed</th><th></th></tr>
+    </thead>
+    <tbody>
+        @foreach (var t in Model)
+        {
+            <tr>
+                <td>@t.Id</td>
+                <td>@Html.DisplayFor(_ => t.Title)</td>
+                <td>@Html.DisplayFor(_ => t.Description)</td> <!-- Encoded by default -->
+                <td>@t.OwnerUserId</td>
+                <td>@t.Completed</td>
+                <td>
+                    <form asp-action="Delete" method="post">
+                        @Html.AntiForgeryToken()
+                        <input type="hidden" name="id" value="@t.Id" />
+                        <button class="btn btn-danger btn-sm" type="submit">Delete</button>
+                    </form>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

@@ -1,0 +1,5 @@
+D:\Wipro_Training\..Assignments\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro_Training\..Assignments\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfoInputs.cache
+D:\Wipro_Training\..Assignments\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.AssemblyInfo.cs
+D:\Wipro_Training\..Assignments\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\..Assignments\LibraryManagementSystem\LibrarySystem\obj\Debug\net9.0\LibrarySystem.sourcelink.json

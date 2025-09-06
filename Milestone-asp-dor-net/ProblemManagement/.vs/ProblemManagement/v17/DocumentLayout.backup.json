@@ -1,0 +1,360 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\views\\shared\\_layout.cshtml.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\views\\error\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\views\\error\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|d:\\wipro_training\\milestone-asp-dor-net\\problemmanagement\\problemmanagement\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C4677924-ABC3-4FC5-9956-4D72AB6DFA59}|ProblemManagement\\ProblemManagement.csproj|solutionrelative:problemmanagement\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProblemManagement\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProblemManagement\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:56:35.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "ProblemManagement\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "ProblemManagement\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:36:43.884Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\appsettings.json",
+              "RelativeDocumentMoniker": "ProblemManagement\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\appsettings.json",
+              "RelativeToolTip": "ProblemManagement\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T03:34:55.002Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "ProblemManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "ProblemManagement\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:56:38.975Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml.css",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeDocumentMoniker": "ProblemManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "RelativeToolTip": "ProblemManagement\\Views\\Shared\\_Layout.cshtml.css",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-08-31T04:20:18.084Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProblemManagement\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "ProblemManagement\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:56:26.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\SeedData.cs",
+              "RelativeDocumentMoniker": "ProblemManagement\\SeedData.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\SeedData.cs",
+              "RelativeToolTip": "ProblemManagement\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:58:47.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Program.cs",
+              "RelativeDocumentMoniker": "ProblemManagement\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Program.cs",
+              "RelativeToolTip": "ProblemManagement\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:00:51.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "ProblemManagement\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "ProblemManagement\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:58:59.021Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "ProblemManagement\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "ProblemManagement\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:56:19.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "ProblemManagement\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "ProblemManagement\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:56:14.209Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "ProblemManagement\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "ProblemManagement\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:56:08.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "ProblemManagement\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "ProblemManagement\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:56:05.57Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "ProblemManagement\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "ProblemManagement\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:56:03.415Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Error\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "ProblemManagement\\Views\\Error\\AccessDenied.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Views\\Error\\AccessDenied.cshtml",
+              "RelativeToolTip": "ProblemManagement\\Views\\Error\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:55:45.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProblemManagement\\Models\\Product.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Models\\Product.cs",
+              "RelativeToolTip": "ProblemManagement\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:35:45.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProblemManagement\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProblemManagement\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:37:19.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProblemManagement\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProblemManagement\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:36:34.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "ProblemManagement\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "ProblemManagement\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:36:24.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "ProblemManagement\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProblemManagement\\ProblemManagement\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "ProblemManagement\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:36:16.319Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

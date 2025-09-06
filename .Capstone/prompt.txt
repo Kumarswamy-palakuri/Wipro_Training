@@ -1,0 +1,8 @@
+create fullstack backend using .net and frontend using react aslo given all instructions given in documentation also imple ment features like
+1.create login and registration pages also add feature when some one want to join using registration ,admin can have nee to acces them inorder to become staff or manager ,also admin can change they role any time 
+2. staff can make inventory moment and that momoment need to store in inventory log that can be seen by manager and admin also they can generate that repost as csv and download it ,also need to download inventory deatils also 
+3.alo manager can update they quantity of prodocuta and and update name deatils ,bu not delete it ,but admin can delete products 
+4.create a differate database for staff and manager and admin 
+5. manager and admin have similar dashboard ,can see shock with low quantity ,as net notifican when quantity get less to percicular limit
+6. admin can see data pending registration aprovels also
+7.add styling similar real time inventory management sites with auth and endpoint given in documentation ,also use react for it with folder structure in daocument

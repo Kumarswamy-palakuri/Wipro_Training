@@ -1,0 +1,470 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\models\\userapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\models\\userapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\services\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\migrations\\20250828191652_set4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\migrations\\20250828191652_set4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\services\\dashboardservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\controllers\\dashboardcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\migrations\\20250828175750_set1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\migrations\\20250828175750_set1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\controllers\\reportscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\models\\inventorymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\models\\inventorymovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\middleware\\jwtmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\controllers\\notificationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\migrations\\20250828190110_set2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\migrations\\20250828190110_set2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\migrations\\20250829110102_fixedapproval1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\migrations\\20250829110102_fixedapproval1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\migrations\\20250829104502_fixedapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\migrations\\20250829104502_fixedapproval.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|d:\\wipro_training\\.capstone\\democapstone-2\\inventorymanagementsystem\\inventorymanagementsystem\\migrations\\20250829065642_set5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2CB6CA0-A294-43A2-BB4A-C5C06F009FF4}|InventoryManagementSystem\\InventoryManagementSystem.csproj|solutionrelative:inventorymanagementsystem\\migrations\\20250829065642_set5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Services\\IUserService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Services\\IUserService.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Services\\IUserService.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Services\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:37:41.456Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAswDoAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:36:09.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250829110102_fixedapproval1.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250829110102_fixedapproval1.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Migrations\\20250829110102_fixedapproval1.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250829110102_fixedapproval1.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Migrations\\20250829110102_fixedapproval1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T11:01:02.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\User.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Models\\User.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\User.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:36:54.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAOcAAAAAAAAAAAAswO4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:35:47.725Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\appsettings.json",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\appsettings.json",
+              "RelativeToolTip": "InventoryManagementSystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T17:42:21.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\appsettings.Development.json",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\appsettings.Development.json",
+              "RelativeToolTip": "InventoryManagementSystem\\appsettings.Development.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T19:09:56.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:38:28.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserApproval.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\UserApproval.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Models\\UserApproval.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\UserApproval.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Models\\UserApproval.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:37:27.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Services\\UserService.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Services\\UserService.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Services\\UserService.cs",
+              "ViewState": "AgIAAG8AAAAAAAAAAAA6wIMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:37:49.899Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20250829104502_fixedapproval.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250829104502_fixedapproval.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Migrations\\20250829104502_fixedapproval.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250829104502_fixedapproval.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Migrations\\20250829104502_fixedapproval.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T10:45:02.789Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Program.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Program.cs",
+              "ViewState": "AgIAAGMAAAAAAAAAAAAAAHgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:42:09.344Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20250829065642_set5.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250829065642_set5.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Migrations\\20250829065642_set5.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250829065642_set5.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Migrations\\20250829065642_set5.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-29T06:56:42.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "20250828191652_set4.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250828191652_set4.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Migrations\\20250828191652_set4.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250828191652_set4.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Migrations\\20250828191652_set4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:16:53.123Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250828190110_set2.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250828190110_set2.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Migrations\\20250828190110_set2.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250828190110_set2.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Migrations\\20250828190110_set2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T19:01:10.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "InventoryManagementSystem\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-28T19:10:08.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DashboardService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Services\\DashboardService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Services\\DashboardService.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Services\\DashboardService.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Services\\DashboardService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:38:16.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Models\\Product.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\Product.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Models\\Product.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wBEAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:37:05.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "DashboardController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\DashboardController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Controllers\\DashboardController.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\DashboardController.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Controllers\\DashboardController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:36:22.44Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250828175750_set1.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250828175750_set1.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Migrations\\20250828175750_set1.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Migrations\\20250828175750_set1.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Migrations\\20250828175750_set1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:57:50.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Services\\ProductService.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Services\\ProductService.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Services\\ProductService.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAowIQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:38:08.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ReportsController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\ReportsController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Controllers\\ReportsController.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\ReportsController.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Controllers\\ReportsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:36:32.807Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Services\\IProductService.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Services\\IProductService.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:37:59.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "InventoryMovement.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\InventoryMovement.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Models\\InventoryMovement.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Models\\InventoryMovement.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Models\\InventoryMovement.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:37:17.689Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "JwtMiddleware.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Middleware\\JwtMiddleware.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAowDcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:35:29.88Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "NotificationController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\NotificationController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Controllers\\NotificationController.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\NotificationController.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Controllers\\NotificationController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowC4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:36:41.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:47:12.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "InventoryManagementSystem\\Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Wipro_Training\\.Capstone\\democapstone-2\\InventoryManagementSystem\\InventoryManagementSystem\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "InventoryManagementSystem\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAFcAAAAAAAAAAAAowHYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-28T17:35:59.243Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

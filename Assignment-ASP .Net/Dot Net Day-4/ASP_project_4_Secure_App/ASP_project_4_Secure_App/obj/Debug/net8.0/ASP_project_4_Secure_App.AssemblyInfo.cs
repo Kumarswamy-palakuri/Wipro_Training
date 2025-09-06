@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP_project_4_Secure_App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c633e3f227a2313acec102b3f3a27e736aae500a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2a619bd3a448bb2ab744fff6036101641af7c75d")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP_project_4_Secure_App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP_project_4_Secure_App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,39 @@
+/* src/components/Layout.css */
+/* Component-specific styles for Layout component */
+
+.sidebar-nav a.active {
+  background: #34495e;
+  border-left: 4px solid #3498db;
+}
+
+.sidebar-nav a.active i {
+  color: #3498db;
+}
+
+/* Responsive adjustments for mobile */
+@media (max-width: 991px) {
+  .sidebar {
+    width: 200px;
+  }
+  
+  .main-content {
+    padding: 80px 15px 15px;
+  }
+}
+
+/* Animation for menu toggle */
+.menu-toggle span {
+  transition: all 0.3s ease;
+}
+
+.menu-toggle.open span:nth-child(1) {
+  transform: rotate(45deg) translate(5px, 5px);
+}
+
+.menu-toggle.open span:nth-child(2) {
+  opacity: 0;
+}
+
+.menu-toggle.open span:nth-child(3) {
+  transform: rotate(-45deg) translate(7px, -6px);
+}

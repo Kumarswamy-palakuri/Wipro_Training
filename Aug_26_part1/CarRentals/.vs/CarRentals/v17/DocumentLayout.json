@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\carrentals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\carrentals.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\models\\cardbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\controllers\\vehiclescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\models\\vehicle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\models\\users.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\models\\jwtsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\models\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\models\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|d:\\wipro_training\\aug_26_part1\\carrentals\\carrentals\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{09E9A4F0-96B9-4388-A358-0AE4B704F41E}|CarRentals\\CarRentals.csproj|solutionrelative:carrentals\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarRentals",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\CarRentals.csproj",
+              "RelativeDocumentMoniker": "CarRentals\\CarRentals.csproj",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\CarRentals.csproj",
+              "RelativeToolTip": "CarRentals\\CarRentals.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-26T04:19:23.737Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Program.cs",
+              "RelativeDocumentMoniker": "CarRentals\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Program.cs",
+              "RelativeToolTip": "CarRentals\\Program.cs",
+              "ViewState": "AgIAAEAAAAAAAAAAAAArwE4AAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T03:44:25.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CarDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\CarDbContext.cs",
+              "RelativeDocumentMoniker": "CarRentals\\Models\\CarDbContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\CarDbContext.cs",
+              "RelativeToolTip": "CarRentals\\Models\\CarDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:02:07.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\appsettings.json",
+              "RelativeDocumentMoniker": "CarRentals\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\appsettings.json",
+              "RelativeToolTip": "CarRentals\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T03:44:34.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "CarRentals\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "CarRentals\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:16:32.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "VehiclesController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Controllers\\VehiclesController.cs",
+              "RelativeDocumentMoniker": "CarRentals\\Controllers\\VehiclesController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Controllers\\VehiclesController.cs",
+              "RelativeToolTip": "CarRentals\\Controllers\\VehiclesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:16:02.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "CarRentals\\Controllers\\AuthController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "CarRentals\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:15:51.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "CarRentals\\Models\\LoginRequest.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "CarRentals\\Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:02:28.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Users.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\Users.cs",
+              "RelativeDocumentMoniker": "CarRentals\\Models\\Users.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\Users.cs",
+              "RelativeToolTip": "CarRentals\\Models\\Users.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:02:31.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Vehicle.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\Vehicle.cs",
+              "RelativeDocumentMoniker": "CarRentals\\Models\\Vehicle.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\Vehicle.cs",
+              "RelativeToolTip": "CarRentals\\Models\\Vehicle.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:02:36.024Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "JwtSettings.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\JwtSettings.cs",
+              "RelativeDocumentMoniker": "CarRentals\\Models\\JwtSettings.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\JwtSettings.cs",
+              "RelativeToolTip": "CarRentals\\Models\\JwtSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:02:23.721Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\IAuthService.cs",
+              "RelativeDocumentMoniker": "CarRentals\\Models\\IAuthService.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\IAuthService.cs",
+              "RelativeToolTip": "CarRentals\\Models\\IAuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:02:17.54Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\AuthService.cs",
+              "RelativeDocumentMoniker": "CarRentals\\Models\\AuthService.cs",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Models\\AuthService.cs",
+              "RelativeToolTip": "CarRentals\\Models\\AuthService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T04:01:59.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "CarRentals\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Aug_26_part1\\CarRentals\\CarRentals\\Properties\\launchSettings.json",
+              "RelativeToolTip": "CarRentals\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-26T03:45:38.021Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

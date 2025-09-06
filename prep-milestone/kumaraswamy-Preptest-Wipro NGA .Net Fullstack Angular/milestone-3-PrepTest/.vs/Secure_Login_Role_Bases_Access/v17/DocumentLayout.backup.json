@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\services\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\services\\identitydataseeder.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\migrations\\20250830140127_kumar1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\migrations\\20250830140127_kumar1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\secure_login_role_bases_access.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\secure_login_role_bases_access.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|c:\\users\\kumar\\onedrive\\documents\\milestone_3_prep_test[1]\\milestone_3_prep_test\\secure_login_role_bases_access\\secure_login_role_bases_access\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{439E6DC9-4BA5-4618-829E-AE8C396CF9E4}|Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj|solutionrelative:secure_login_role_bases_access\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAABQBAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T14:05:42.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20250830140127_kumar1.cs",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Migrations\\20250830140127_kumar1.cs",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Migrations\\20250830140127_kumar1.cs",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Migrations\\20250830140127_kumar1.cs",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Migrations\\20250830140127_kumar1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T14:01:27.849Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T14:03:40.731Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:56:34.779Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IdentityDataSeeder.cs",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Services\\IdentityDataSeeder.cs",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Services\\IdentityDataSeeder.cs",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Services\\IdentityDataSeeder.cs",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Services\\IdentityDataSeeder.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAYwCYAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:53:51.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:51:11.111Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Controllers\\UserController.cs",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:23:00.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:23:21.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:21:34.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAgwBAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:19:41.681Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Program.cs",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Program.cs",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Program.cs",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:29:15.994Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\appsettings.json",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\appsettings.json",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\appsettings.json",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T12:47:01.145Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Secure_Login_Role_Bases_Access.csproj",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-08-30T13:39:20.142Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:27:23.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:10:27.477Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Views\\User\\Profile.cshtml",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAIwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:09:37.819Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:07:21.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Secure_Login_Role_Bases_Access\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Kumar\\OneDrive\\Documents\\Milestone_3_Prep_Test[1]\\Milestone_3_Prep_Test\\Secure_Login_Role_Bases_Access\\Secure_Login_Role_Bases_Access\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Secure_Login_Role_Bases_Access\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAIBJwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T12:57:51.456Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

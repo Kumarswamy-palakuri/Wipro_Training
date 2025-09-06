@@ -1,0 +1,59 @@
+/* src/components/StockUpdateForm.css */
+/* Component-specific styles for StockUpdateForm component */
+
+.stock-update-form .form-group {
+  margin-bottom: 20px;
+}
+
+.stock-update-form label {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 500;
+  color: #2c3e50;
+}
+
+.stock-update-form select,
+.stock-update-form input,
+.stock-update-form textarea {
+  width: 100%;
+  padding: 10px;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+  font-size: 1rem;
+}
+
+.stock-update-form textarea {
+  min-height: 80px;
+  resize: vertical;
+}
+
+.stock-update-form .form-actions {
+  display: flex;
+  gap: 10px;
+  justify-content: flex-end;
+  margin-top: 20px;
+}
+
+/* Specific styles for stock movement types */
+.stock-movement-in {
+  color: #27ae60;
+}
+
+.stock-movement-out {
+  color: #e74c3c;
+}
+
+.stock-movement-adjustment {
+  color: #f39c12;
+}
+
+/* Responsive adjustments */
+@media (max-width: 768px) {
+  .stock-update-form .form-actions {
+    flex-direction: column;
+  }
+  
+  .stock-update-form .form-actions button {
+    width: 100%;
+  }
+}

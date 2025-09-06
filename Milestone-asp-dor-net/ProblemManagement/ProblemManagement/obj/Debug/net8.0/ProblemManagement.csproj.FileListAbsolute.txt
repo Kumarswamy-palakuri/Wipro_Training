@@ -1,0 +1,10 @@
+D:\Wipro_Training\Milestone-asp-dor-net\ProblemManagement\ProblemManagement\obj\Debug\net8.0\rpswa.dswa.cache.json
+D:\Wipro_Training\Milestone-asp-dor-net\ProblemManagement\ProblemManagement\obj\Debug\net8.0\ProblemManagement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro_Training\Milestone-asp-dor-net\ProblemManagement\ProblemManagement\obj\Debug\net8.0\ProblemManagement.AssemblyInfoInputs.cache
+D:\Wipro_Training\Milestone-asp-dor-net\ProblemManagement\ProblemManagement\obj\Debug\net8.0\ProblemManagement.AssemblyInfo.cs
+D:\Wipro_Training\Milestone-asp-dor-net\ProblemManagement\ProblemManagement\obj\Debug\net8.0\ProblemManagement.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\Milestone-asp-dor-net\ProblemManagement\ProblemManagement\obj\Debug\net8.0\ProblemManagement.MvcApplicationPartsAssemblyInfo.cache
+D:\Wipro_Training\Milestone-asp-dor-net\ProblemManagement\ProblemManagement\obj\Debug\net8.0\ProblemManagement.RazorAssemblyInfo.cache
+D:\Wipro_Training\Milestone-asp-dor-net\ProblemManagement\ProblemManagement\obj\Debug\net8.0\ProblemManagement.RazorAssemblyInfo.cs
+D:\Wipro_Training\Milestone-asp-dor-net\ProblemManagement\ProblemManagement\obj\Debug\net8.0\ProblemManagement.sourcelink.json
+D:\Wipro_Training\Milestone-asp-dor-net\ProblemManagement\ProblemManagement\obj\Debug\net8.0\ProblemManagement.csproj.AssemblyReference.cache

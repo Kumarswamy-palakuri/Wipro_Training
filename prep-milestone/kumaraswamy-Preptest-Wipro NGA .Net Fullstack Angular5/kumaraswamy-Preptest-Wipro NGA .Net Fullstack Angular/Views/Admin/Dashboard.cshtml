@@ -1,0 +1,8 @@
+﻿@model kumaraswamy_Preptest_Wipro_NGA_.Net_Fullstack_Angular_.ViewModels.AdminDashboardViewModel
+<h2>Welcome, Admin! You have access to the Admin Dashboard.</h2>
+<ul>
+    @foreach (var user in Model.Users)
+    {
+        <li>@user</li>
+    }
+</ul>

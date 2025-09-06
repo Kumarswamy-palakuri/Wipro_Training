@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "L+UBve/RTl8=",
+  "success": true,
+  "projectFilePath": "D:\\Wipro_Training\\Assignment-WEB API\\day2\\CarRentals\\CarRentals\\CarRentals.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kumar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.8\\microsoft.aspnetcore.openapi.9.0.8.nupkg.sha512",
+    "C:\\Users\\Kumar\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+  ],
+  "logs": []
+}

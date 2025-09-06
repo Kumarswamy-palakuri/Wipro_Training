@@ -1,0 +1,227 @@
+// ==============================================================
+// Assignment 1: Applying SOLID Principles
+// ==============================================================
+
+// --- Single Responsibility Principle (SRP) ---
+// ReportGenerator handles only generation.
+// ReportSaver handles only saving.
+
+public class ReportGenerator
+{
+    public string GenerateReport(string data)
+    {
+        return $"Report Content: {data}";
+    }
+}
+
+public class ReportSaver
+{
+    public void SaveReport(string content, string filePath)
+    {
+        File.WriteAllText(filePath, content);
+    }
+}
+
+// --- Open/Closed Principle (OCP) ---
+// IReportFormatter is the abstraction. PDF and Excel implement it.
+
+public interface IReportFormatter
+{
+    string Format(string content);
+}
+
+public class PdfReportFormatter : IReportFormatter
+{
+    public string Format(string content) => $"[PDF] {content}";
+}
+
+public class ExcelReportFormatter : IReportFormatter
+{
+    public string Format(string content) => $"[Excel] {content}";
+}
+
+// --- Liskov Substitution Principle (LSP) ---
+// Base class Report and derived classes can be substituted safely.
+
+public abstract class Report
+{
+    public abstract string GetContent();
+}
+
+public class SalesReport : Report
+{
+    public override string GetContent() => "Sales Report Content";
+}
+
+public class InventoryReport : Report
+{
+    public override string GetContent() => "Inventory Report Content";
+}
+
+// --- Interface Segregation Principle (ISP) ---
+// Split into smaller interfaces.
+
+public interface IReadableReport
+{
+    string Read();
+}
+
+public interface IWritableReport
+{
+    void Write(string content);
+}
+
+public class FileReport : IReadableReport, IWritableReport
+{
+    private string _path;
+    public FileReport(string path) { _path = path; }
+
+    public string Read() => File.ReadAllText(_path);
+    public void Write(string content) => File.WriteAllText(_path, content);
+}
+
+// --- Dependency Inversion Principle (DIP) ---
+// ReportService depends on abstractions, not concrete implementations.
+
+public class ReportService
+{
+    private readonly ReportGenerator _generator;
+    private readonly IReportFormatter _formatter;
+    private readonly ReportSaver _saver;
+
+    public ReportService(ReportGenerator generator, IReportFormatter formatter, ReportSaver saver)
+    {
+        _generator = generator;
+        _formatter = formatter;
+        _saver = saver;
+    }
+
+    public void CreateAndSaveReport(string data, string filePath)
+    {
+        var report = _generator.GenerateReport(data);
+        var formatted = _formatter.Format(report);
+        _saver.SaveReport(formatted, filePath);
+    }
+}
+
+// ==============================================================
+// Assignment 2: Design Patterns
+// ==============================================================
+
+// --- Singleton Pattern ---
+
+public sealed class Logger
+{
+    private static readonly Lazy<Logger> _instance = new(() => new Logger());
+    public static Logger Instance => _instance.Value;
+
+    private Logger() { }
+
+    public void Log(string message)
+    {
+        Console.WriteLine($"[{DateTime.Now}] {message}");
+    }
+}
+
+// --- Factory Pattern ---
+
+public abstract class Document
+{
+    public abstract string GetInfo();
+}
+
+public class PdfDocument : Document
+{
+    public override string GetInfo() => "This is a PDF Document.";
+}
+
+public class WordDocument : Document
+{
+    public override string GetInfo() => "This is a Word Document.";
+}
+
+public class DocumentFactory
+{
+    public static Document Create(string type)
+    {
+        return type.ToLower() switch
+        {
+            "pdf" => new PdfDocument(),
+            "word" => new WordDocument(),
+            _ => throw new ArgumentException("Unknown type")
+        };
+    }
+}
+
+// --- Observer Pattern ---
+
+public interface IObserver
+{
+    void Update(string weatherData);
+}
+
+public class WeatherStation
+{
+    private readonly List<IObserver> _observers = new();
+    private string _weatherData = "Sunny";
+
+    public void Register(IObserver observer) => _observers.Add(observer);
+    public void Unregister(IObserver observer) => _observers.Remove(observer);
+
+    public void SetWeatherData(string data)
+    {
+        _weatherData = data;
+        NotifyObservers();
+    }
+
+    private void NotifyObservers()
+    {
+        foreach (var observer in _observers)
+        {
+            observer.Update(_weatherData);
+        }
+    }
+}
+
+public class WeatherDisplay : IObserver
+{
+    private readonly string _name;
+    public WeatherDisplay(string name) => _name = name;
+
+    public void Update(string weatherData)
+    {
+        Console.WriteLine($"{_name} display updated: {weatherData}");
+    }
+}
+
+// ==============================================================
+// Example Usage (for testing assignments)
+// ==============================================================
+
+public class Program
+{
+    public static void Main()
+    {
+        // SOLID Demo
+        var generator = new ReportGenerator();
+        var saver = new ReportSaver();
+        var formatter = new PdfReportFormatter();
+        var service = new ReportService(generator, formatter, saver);
+        service.CreateAndSaveReport("Quarterly Results", "report.txt");
+
+        // Singleton Demo
+        Logger.Instance.Log("App started");
+
+        // Factory Demo
+        Document doc = DocumentFactory.Create("pdf");
+        Console.WriteLine(doc.GetInfo());
+
+        // Observer Demo
+        var station = new WeatherStation();
+        var display1 = new WeatherDisplay("Main Hall");
+        var display2 = new WeatherDisplay("Lobby");
+        station.Register(display1);
+        station.Register(display2);
+        station.SetWeatherData("Rainy");
+    }
+}

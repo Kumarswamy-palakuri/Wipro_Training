@@ -1,0 +1,12 @@
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\bin\Debug\net9.0\CalculatorLibrary.deps.json
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\bin\Debug\net9.0\CalculatorLibrary.dll
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\bin\Debug\net9.0\CalculatorLibrary.pdb
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\obj\Debug\net9.0\CalculatorLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\obj\Debug\net9.0\CalculatorLibrary.AssemblyInfoInputs.cache
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\obj\Debug\net9.0\CalculatorLibrary.AssemblyInfo.cs
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\obj\Debug\net9.0\CalculatorLibrary.csproj.CoreCompileInputs.cache
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\obj\Debug\net9.0\CalculatorLibrary.sourcelink.json
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\obj\Debug\net9.0\CalculatorLibrary.dll
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\obj\Debug\net9.0\refint\CalculatorLibrary.dll
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\obj\Debug\net9.0\CalculatorLibrary.pdb
+D:\Wipro_Training\..Assignments\CalculatorSolution1\CalculatorLibrary\obj\Debug\net9.0\ref\CalculatorLibrary.dll

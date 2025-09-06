@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\views\\account\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\views\\product\\deleteproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\views\\product\\editproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\views\\product\\createproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\views\\product\\productlist.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\views\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\models\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\migrations\\20250831050332_milstroneset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\migrations\\20250831050332_milstroneset1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|d:\\wipro_training\\milestone-asp-dor-net\\productmanagementmile\\productmanagementmile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{90FBAAA0-0143-4702-8086-1E2F86F7E8DE}|ProductManagementMile\\ProductManagementMile.csproj|solutionrelative:productmanagementmile\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Models\\Product.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Models\\Product.cs",
+              "RelativeToolTip": "ProductManagementMile\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:42:01.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "ProductManagementMile\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:41:21.113Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Program.cs",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Program.cs",
+              "RelativeToolTip": "ProductManagementMile\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGgAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:44:29.354Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Properties\\launchSettings.json",
+              "RelativeToolTip": "ProductManagementMile\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T05:07:22.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DeleteProduct.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Product\\DeleteProduct.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Views\\Product\\DeleteProduct.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Product\\DeleteProduct.cshtml",
+              "RelativeToolTip": "ProductManagementMile\\Views\\Product\\DeleteProduct.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T04:51:21.491Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Views\\Account\\AccessDenied.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Account\\AccessDenied.cshtml",
+              "RelativeToolTip": "ProductManagementMile\\Views\\Account\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T04:51:51.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EditProduct.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Product\\EditProduct.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Views\\Product\\EditProduct.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Product\\EditProduct.cshtml",
+              "RelativeToolTip": "ProductManagementMile\\Views\\Product\\EditProduct.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAACMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T04:44:23.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CreateProduct.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Views\\Product\\CreateProduct.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Product\\CreateProduct.cshtml",
+              "RelativeToolTip": "ProductManagementMile\\Views\\Product\\CreateProduct.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T04:44:09.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductList.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Product\\ProductList.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Views\\Product\\ProductList.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Product\\ProductList.cshtml",
+              "RelativeToolTip": "ProductManagementMile\\Views\\Product\\ProductList.cshtml",
+              "ViewState": "AgIAABMAAAAAAAAAAAAAACwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T04:43:44.658Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "ProductManagementMile\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABoAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T04:43:00.813Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Views\\Account\\Register.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Account\\Register.cshtml",
+              "RelativeToolTip": "ProductManagementMile\\Views\\Account\\Register.cshtml",
+              "ViewState": "AgIAABwAAAAAAAAAAAAAADcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T04:42:47.87Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "ProductManagementMile\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAABoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T04:56:20.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "ProductManagementMile\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAAAIEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:41:36.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RegisterViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Models\\RegisterViewModel.cs",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Models\\RegisterViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Models\\RegisterViewModel.cs",
+              "RelativeToolTip": "ProductManagementMile\\Models\\RegisterViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:42:14.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250831050332_MilStroneset1.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Migrations\\20250831050332_MilStroneset1.cs",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Migrations\\20250831050332_MilStroneset1.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Migrations\\20250831050332_MilStroneset1.cs",
+              "RelativeToolTip": "ProductManagementMile\\Migrations\\20250831050332_MilStroneset1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T05:03:33.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "ProductManagementMile\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T04:59:39.847Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "ProductManagementMile\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "ProductManagementMile\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T04:52:04.587Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\appsettings.json",
+              "RelativeDocumentMoniker": "ProductManagementMile\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Milestone-asp-dor-net\\ProductManagementMile\\ProductManagementMile\\appsettings.json",
+              "RelativeToolTip": "ProductManagementMile\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAACOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T04:52:39.988Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

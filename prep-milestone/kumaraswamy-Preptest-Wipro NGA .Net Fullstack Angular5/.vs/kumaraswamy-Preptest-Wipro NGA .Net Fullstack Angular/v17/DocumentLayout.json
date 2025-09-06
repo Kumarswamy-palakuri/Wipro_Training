@@ -1,0 +1,357 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\data\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\models\\applicationuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\viewmodels\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\viewmodels\\admindashboardviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\user\\profile.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\admin\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|d:\\wipro_training\\prep-milestone\\kumaraswamy-preptest-wipro nga .net fullstack angular\\kumaraswamy-preptest-wipro nga .net fullstack angular\\migrations\\20250830134900_prep-milestone-set1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{52C647B7-58ED-4FCD-A119-5A2BED178F4C}|kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular..csproj|solutionrelative:kumaraswamy-preptest-wipro nga .net fullstack angular\\migrations\\20250830134900_prep-milestone-set1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Program.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Program.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Program.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABUAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:03:12.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\appsettings.json",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\appsettings.json",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T13:04:45.93Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:57:57.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250830134900_prep-milestone-set1.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Migrations\\20250830134900_prep-milestone-set1.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Migrations\\20250830134900_prep-milestone-set1.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Migrations\\20250830134900_prep-milestone-set1.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Migrations\\20250830134900_prep-milestone-set1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:49:00.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Data\\SeedData.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Data\\SeedData.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Data\\SeedData.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Data\\SeedData.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:00:36.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationUser.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Models\\ApplicationUser.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Models\\ApplicationUser.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Models\\ApplicationUser.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Models\\ApplicationUser.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:58:34.586Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:13:31.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Properties\\launchSettings.json",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAACUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-30T13:12:03.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:02:02.113Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T13:15:50.887Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\AdminController.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:57:07.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AdminDashboardViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\ViewModels\\AdminDashboardViewModel.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\ViewModels\\AdminDashboardViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\ViewModels\\AdminDashboardViewModel.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\ViewModels\\AdminDashboardViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:59:48.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\UserController.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:57:19.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:56:47.918Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Profile.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\User\\Profile.cshtml",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\User\\Profile.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\User\\Profile.cshtml",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\User\\Profile.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:02:26.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvxIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:11:21.695Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Admin\\Dashboard.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Admin\\Dashboard.cshtml",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Admin\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:01:29.855Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:14:12.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:14:08.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\ViewModels\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\ViewModels\\LoginViewModel.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\ViewModels\\LoginViewModel.cs",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\ViewModels\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-30T12:59:22.462Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "kumaraswamy-Preptest-Wipro NGA .Net Fullstack Angular\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-30T13:11:34.319Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

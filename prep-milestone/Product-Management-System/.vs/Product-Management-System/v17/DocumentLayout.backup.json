@@ -1,0 +1,275 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\controllers\\errorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\views\\error\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\views\\error\\accessdenied.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\views\\product\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\seeddata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|d:\\wipro_training\\prep-milestone\\product-management-system\\product-management-system\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{60297307-D119-4B34-80CD-B426CD586EE9}|Product-Management-System\\Product-Management-System.csproj|solutionrelative:product-management-system\\views\\product\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Product-Management-System\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Product-Management-System\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:30:32.117Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\appsettings.json",
+              "RelativeDocumentMoniker": "Product-Management-System\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\appsettings.json",
+              "RelativeToolTip": "Product-Management-System\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-31T03:29:09.046Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Product-Management-System\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Product-Management-System\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAwDMAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:28:58.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ErrorController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Controllers\\ErrorController.cs",
+              "RelativeDocumentMoniker": "Product-Management-System\\Controllers\\ErrorController.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Controllers\\ErrorController.cs",
+              "RelativeToolTip": "Product-Management-System\\Controllers\\ErrorController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:22:36.86Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Product-Management-System\\Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Product-Management-System\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:28:51.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Product-Management-System\\Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Product-Management-System\\Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:24:44.413Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AccessDenied.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Error\\AccessDenied.cshtml",
+              "RelativeDocumentMoniker": "Product-Management-System\\Views\\Error\\AccessDenied.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Error\\AccessDenied.cshtml",
+              "RelativeToolTip": "Product-Management-System\\Views\\Error\\AccessDenied.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:25:24.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Product-Management-System\\Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Product-Management-System\\Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAAwCQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:24:33.603Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Product-Management-System\\Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Product-Management-System\\Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAwDUAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:24:22.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Product-Management-System\\Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Product-Management-System\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAIkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:22:19.421Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SeedData.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\SeedData.cs",
+              "RelativeDocumentMoniker": "Product-Management-System\\SeedData.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\SeedData.cs",
+              "RelativeToolTip": "Product-Management-System\\SeedData.cs",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAwEAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:25:36.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Product-Management-System\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Product-Management-System\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAwBcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:23:14.858Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Product-Management-System\\Models\\Product.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Models\\Product.cs",
+              "RelativeToolTip": "Product-Management-System\\Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:23:31.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Program.cs",
+              "RelativeDocumentMoniker": "Product-Management-System\\Program.cs",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Program.cs",
+              "RelativeToolTip": "Product-Management-System\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEcAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-31T03:25:54.752Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Product\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Product-Management-System\\Views\\Product\\Delete.cshtml",
+              "ToolTip": "D:\\Wipro_Training\\prep-milestone\\Product-Management-System\\Product-Management-System\\Views\\Product\\Delete.cshtml",
+              "RelativeToolTip": "Product-Management-System\\Views\\Product\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-08-31T03:24:54.635Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

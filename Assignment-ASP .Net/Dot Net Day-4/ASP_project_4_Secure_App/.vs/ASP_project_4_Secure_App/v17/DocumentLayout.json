@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Migrations\\20250825170352_setup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASP_project_4_Secure_App\\Migrations\\20250825170352_setup1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F38D4C3F-944A-4A9A-A89A-05F02B4FC2A0}|ASP_project_4_Secure_App\\ASP_project_4_Secure_App.csproj|d:\\wipro_training\\assignment-asp .net\\dot net day-4\\asp_project_4_secure_app\\asp_project_4_secure_app\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F38D4C3F-944A-4A9A-A89A-05F02B4FC2A0}|ASP_project_4_Secure_App\\ASP_project_4_Secure_App.csproj|solutionrelative:asp_project_4_secure_app\\models\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -110,23 +114,24 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\appsettings.json",
-              "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\appsettings.json",
-              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\appsettings.json",
-              "RelativeToolTip": "ASP_project_4_Secure_App\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-24T07:09:37.465Z"
+              "DocumentIndex": 0,
+              "Title": "20250825170352_setup1.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Migrations\\20250825170352_setup1.cs",
+              "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Migrations\\20250825170352_setup1.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Migrations\\20250825170352_setup1.cs",
+              "RelativeToolTip": "ASP_project_4_Secure_App\\Migrations\\20250825170352_setup1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-25T17:03:52.953Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Services\\UserService.cs",
@@ -138,7 +143,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "PaymentService.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Services\\PaymentService.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Services\\PaymentService.cs",
@@ -150,7 +155,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "AuthService.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Services\\AuthService.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Services\\AuthService.cs",
@@ -162,43 +167,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AuditService.cs",
-              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Services\\AuditService.cs",
-              "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Services\\AuditService.cs",
-              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Services\\AuditService.cs",
-              "RelativeToolTip": "ASP_project_4_Secure_App\\Services\\AuditService.cs",
-              "ViewState": "AgIAAJoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T07:08:34.387Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "UsersController.cs",
-              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Controllers\\UsersController.cs",
-              "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Controllers\\UsersController.cs",
-              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Controllers\\UsersController.cs",
-              "RelativeToolTip": "ASP_project_4_Secure_App\\Controllers\\UsersController.cs",
-              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T07:05:34.769Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PaymentsController.cs",
-              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Controllers\\PaymentsController.cs",
-              "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Controllers\\PaymentsController.cs",
-              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Controllers\\PaymentsController.cs",
-              "RelativeToolTip": "ASP_project_4_Secure_App\\Controllers\\PaymentsController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T07:05:27.569Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "Payment.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Models\\Payment.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Models\\Payment.cs",
@@ -211,7 +180,55 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 4,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\appsettings.json",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\appsettings.json",
+              "RelativeToolTip": "ASP_project_4_Secure_App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAACVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-08-24T07:09:37.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuditService.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Services\\AuditService.cs",
+              "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Services\\AuditService.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Services\\AuditService.cs",
+              "RelativeToolTip": "ASP_project_4_Secure_App\\Services\\AuditService.cs",
+              "ViewState": "AgIAAJoAAAAAAAAAAAAwwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T07:08:34.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Controllers\\UsersController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "ASP_project_4_Secure_App\\Controllers\\UsersController.cs",
+              "ViewState": "AgIAACQAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T07:05:34.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PaymentsController.cs",
+              "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Controllers\\PaymentsController.cs",
+              "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Controllers\\PaymentsController.cs",
+              "ToolTip": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Controllers\\PaymentsController.cs",
+              "RelativeToolTip": "ASP_project_4_Secure_App\\Controllers\\PaymentsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-24T07:05:27.569Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
               "Title": "20250824090022_kumatdata.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Migrations\\20250824090022_kumatdata.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Migrations\\20250824090022_kumatdata.cs",
@@ -223,7 +240,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "UserValidators.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Validators\\UserValidators.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Validators\\UserValidators.cs",
@@ -235,7 +252,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "Program.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Program.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Program.cs",
@@ -247,7 +264,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "launchSettings.json",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Properties\\launchSettings.json",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Security\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Security\\PasswordHasher.cs",
@@ -271,7 +288,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "HmacService.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Security\\HmacService.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Security\\HmacService.cs",
@@ -283,7 +300,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "CryptoService.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Security\\CryptoService.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Security\\CryptoService.cs",
@@ -295,7 +312,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Persistence\\AppDbContext.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Persistence\\AppDbContext.cs",
@@ -307,7 +324,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "03_column_encryption_demo.sql",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Persistence\\Sql\\03_column_encryption_demo.sql",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Persistence\\Sql\\03_column_encryption_demo.sql",
@@ -318,7 +335,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "02_rbac_and_least_privilege.sql",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Persistence\\Sql\\02_rbac_and_least_privilege.sql",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Persistence\\Sql\\02_rbac_and_least_privilege.sql",
@@ -329,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "01_create_tde_and_master_keys.sql",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Persistence\\Sql\\01_create_tde_and_master_keys.sql",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Persistence\\Sql\\01_create_tde_and_master_keys.sql",
@@ -340,7 +357,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Models\\User.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Models\\User.cs",
@@ -352,7 +369,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "AppDbContextModelSnapshot.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Migrations\\AppDbContextModelSnapshot.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Migrations\\AppDbContextModelSnapshot.cs",
@@ -364,7 +381,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "20250823180046_initial.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Migrations\\20250823180046_initial.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Migrations\\20250823180046_initial.cs",
@@ -376,7 +393,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "SensitiveDataRedactionMiddleware.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Middleware\\SensitiveDataRedactionMiddleware.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Middleware\\SensitiveDataRedactionMiddleware.cs",
@@ -388,7 +405,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "SecurityHeadersMiddleware.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\Middleware\\SecurityHeadersMiddleware.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\Middleware\\SecurityHeadersMiddleware.cs",
@@ -400,7 +417,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "UserDtos.cs",
               "DocumentMoniker": "D:\\Wipro_Training\\Assignment-ASP .Net\\Dot Net Day-4\\ASP_project_4_Secure_App\\ASP_project_4_Secure_App\\DTOs\\UserDtos.cs",
               "RelativeDocumentMoniker": "ASP_project_4_Secure_App\\DTOs\\UserDtos.cs",

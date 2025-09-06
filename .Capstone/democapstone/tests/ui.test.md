@@ -1,0 +1,6 @@
+- Login as admin -> redirected to /products, token stored
+- Products list loads -> items table visible
+- Create product -> appears in table
+- Update quantity -> table reflects new quantity
+- Delete product -> removed from table
+- Logout (clear token) -> accessing /products redirects to /login

@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>My Profile</title>
+  <style>
+    body { font-family: Arial, sans-serif; text-align: center; padding: 20px; }
+    img { border-radius: 50%; margin-top: 10px; width: 150px; height: 150px; object-fit: cover; }
+    .user-card { border: 1px solid #ddd; padding: 15px; display: inline-block; border-radius: 8px; margin-top: 20px; }
+  </style>
+</head>
+<body>
+
+  <h1>My Profile Viewer</h1>
+  <button id="fetchUserBtn">Show My Profile</button>
+
+  <div id="userInfo" class="user-card" style="display:none;">
+    <h2 id="userName"></h2>
+    <p id="userEmail"></p>
+    <img id="userImage" src="" alt="Profile Picture">
+  </div>
+
+  <script>
+    document.getElementById("fetchUserBtn").addEventListener("click", function () {
+      const myName = "Venkat T";
+      const myEmail = "venkat.tanneru92@email.com";
+      const myImage = "Venkat_image.jpg"; // file in same folder as index.html
+
+      document.getElementById("userName").textContent = myName;
+      document.getElementById("userEmail").textContent = myEmail;
+      document.getElementById("userImage").src = myImage;
+      document.getElementById("userInfo").style.display = "block";
+    });
+  </script>
+
+</body>
+</html>

@@ -1,0 +1,62 @@
+# --- Dependencies ---
+node_modules/
+.pnp/
+.pnp.js
+
+# --- Build output (CRA / Vite / Next / Storybook) ---
+build/
+dist/
+.next/
+out/
+storybook-static/
+
+# --- Caches (faster local builds; never commit) ---
+.cache/
+.vite/
+node_modules/.cache/
+.parcel-cache/
+.eslintcache
+.stylelintcache
+.turbo/
+.npm/
+.yarn/*
+!.yarn/patches/
+!.yarn/releases/
+!.yarn/plugins/
+!.yarn/sdks/
+!.yarn/versions/
+
+# --- Env files (secrets & local config) ---
+.env
+.env.local
+.env.*.local
+
+# --- Logs ---
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# --- Tests / Coverage / E2E artifacts ---
+coverage/
+.nyc_output/
+cypress/videos/
+cypress/screenshots/
+playwright-report/
+test-results/
+
+# --- IDE / OS junk ---
+.vscode/
+.idea/
+*.suo
+.ntvs
+*.njsproj
+*.sln
+*.sw?
+.DS_Store
+Thumbs.db
+
+# --- Misc ---
+*.tgz
+*.orig

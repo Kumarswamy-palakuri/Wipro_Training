@@ -1,0 +1,31 @@
+### Login (Admin)
+POST http://localhost:5000/api/auth/login
+Content-Type: application/json
+
+{ "username": "admin", "password": "admin123" }
+
+### Get all products
+GET http://localhost:5000/api/products
+Authorization: Bearer {{token}}
+
+### Get product by id
+GET http://localhost:5000/api/products/1
+Authorization: Bearer {{token}}
+
+### Create product (Admin/Manager)
+POST http://localhost:5000/api/products
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{ "name": "Keyboard", "quantity": 12, "price": 50 }
+
+### Update product (Admin/Manager)
+PUT http://localhost:5000/api/products/1
+Content-Type: application/json
+Authorization: Bearer {{token}}
+
+{ "quantity": 15 }
+
+### Delete product (Admin only)
+DELETE http://localhost:5000/api/products/1
+Authorization: Bearer {{token}}
